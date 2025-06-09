@@ -1,0 +1,160 @@
+/* Body with animated gradient background */
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(270deg, #000000, #6a0dad, #ff1493, #4b0082, #ff69b4);
+  background-size: 1000% 1000%;
+  animation: gradientBG 20s ease infinite;
+  color: #fff;
+}
+
+
+/* Player container */
+.player {
+  margin-top: 100px;
+  background: linear-gradient(145deg, #222, #2a2a2a);
+  padding: 30px 30px 40px;
+  border-radius: 20px;
+  width: 320px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+  text-align: center;
+}
+
+/* Album cover */
+#cover {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+
+#cover:hover {
+  transform: scale(1.05);
+}
+
+/* Song title */
+#title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 4px;
+  letter-spacing: 1px;
+}
+
+/* Artist name */
+#artist {
+  font-size: 16px;
+  font-weight: 400;
+  color: #aaa;
+  margin-bottom: 20px;
+}
+
+/* Controls container */
+.controls {
+  margin-bottom: 25px;
+}
+
+/* Buttons style */
+.controls button {
+  background: none;
+  border: none;
+  color: #1db954;
+  font-size: 30px;
+  margin: 0 18px;
+  cursor: pointer;
+  transition: color 0.3s ease, transform 0.3s ease;
+  user-select: none;
+}
+
+.controls button:hover {
+  color: #13a94c;
+  transform: scale(1.15);
+}
+
+/* Progress container */
+.progress-container {
+  margin-top: 10px;
+}
+
+/* Progress bar style */
+#progress {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 10px;
+  border-radius: 5px;
+  background: linear-gradient(90deg, #1db954 0%, #1ed760 50%, #14a76c 100%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: background-position 0.3s ease;
+  cursor: pointer;
+  box-shadow: inset 0 0 5px rgba(0,0,0,0.3);
+}
+
+#progress:hover {
+  background-position: left bottom;
+}
+
+/* Progress bar thumb - Webkit */
+#progress::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 22px;
+  height: 22px;
+  background: #1db954;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 8px #1db954;
+  transition: background-color 0.3s ease;
+}
+
+#progress::-webkit-slider-thumb:hover {
+  background-color: #14a76c;
+}
+
+/* Progress bar thumb - Firefox */
+#progress::-moz-range-thumb {
+  width: 22px;
+  height: 22px;
+  background: #1db954;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 8px #1db954;
+  transition: background-color 0.3s ease;
+}
+
+#progress::-moz-range-thumb:hover {
+  background-color: #14a76c;
+}
+
+.branding-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding: 20px 40px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+}
+
+.branding-bar h1 {
+  margin: 0;
+  margin-left: 60px;
+  font-size: 28px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 1px;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hehe muzik player</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  
+</head>
+<body>
+  <div class="branding-bar">
+  <h1>Badmos Muzik</h1>
+  </div>
+
+  <div class="player">
+    <img id="cover" src="covers/dhagala.jpg" alt="Album Cover" />
+    <h2 id="title">Song Title</h2>
+    <h4 id="artist">Artist</h4>
+    
+    <audio id="audio" src="songs/DHAGALA LAGLI KALA.mp3"></audio>
+    
+    <div class="controls">
+      <button id="prev">⏮️</button>
+      <button id="play">▶️</button>
+      <button id="next">⏭️</button>
+    </div>
+
+    <div class="progress-container">
+      <input type="range" id="progress" value="0" />
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

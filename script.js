@@ -1,0 +1,71 @@
+const audio = document.getElementById("audio");
+const playBtn = document.getElementById("play");
+const prevBtn = document.getElementById("prev");
+const nextBtn = document.getElementById("next");
+const progress = document.getElementById("progress");
+const title = document.getElementById("title");
+const artist = document.getElementById("artist");
+const coverImg = document.getElementById("cover");
+
+const songs = [
+  {
+    name: "DHAGALA LAGLI KALA.mp3",
+    title: "DHAGALA LAGLI KALA😂",
+    artist: "Artist: Naam nai pata",
+    cover: "covers/dhagala.jpg"
+  }
+];
+
+let songIndex = 0;
+
+function loadSong(song) {
+  title.textContent = song.title;
+  artist.textContent = song.artist;
+  audio.src = "songs/" + song.name;
+  coverImg.src = song.cover;
+  resetProgress();
+}
+
+function resetProgress() {
+  progress.value = 0;
+}
+
+loadSong(songs[songIndex]);
+
+playBtn.addEventListener("click", () => {
+  if (audio.paused) {
+    audio.play();
+    playBtn.textContent = "⏸️";
+  } else {
+    audio.pause();
+    playBtn.textContent = "▶️";
+  }
+});
+
+nextBtn.addEventListener("click", () => {
+  songIndex = (songIndex + 1) % songs.length;
+  loadSong(songs[songIndex]);
+  audio.play();
+  playBtn.textContent = "⏸️";
+});
+
+prevBtn.addEventListener("click", () => {
+  songIndex = (songIndex - 1 + songs.length) % songs.length;
+  loadSong(songs[songIndex]);
+  audio.play();
+  playBtn.textContent = "⏸️";
+});
+
+//progress bar update while playing song
+audio.addEventListener("timeupdate", () => {
+  if (audio.duration) {
+    progress.value = (audio.currentTime / audio.duration) * 100;
+  }
+});
+
+//functionality
+progress.addEventListener("input", () => {
+  if (audio.duration) {
+    audio.currentTime = (progress.value * audio.duration) / 100;
+  }
+});
