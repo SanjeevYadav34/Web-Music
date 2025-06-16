@@ -13,6 +13,12 @@ const songs = [
     title: "DHAGALA LAGLI KALA😂",
     artist: "Artist: Naam nai pata",
     cover: "covers/dhagala.jpg"
+  },
+  {
+    name: "RANU BOMBAI KI RANU.mp3",
+    title: "Ranu Bombai Ki Rani",
+    artist: "Iska bhi nai pata🤣",
+    cover: "covers/ranu.jpg"
   }
 ];
 
