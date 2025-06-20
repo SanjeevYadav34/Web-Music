@@ -22,7 +22,7 @@ const songs = [
   },
   {
     name: "Tu Cheez Badi Hai.mp3",
-    title: "Fav song for now",
+    title: "Tu Cheez Badi Hai Mast Mast",
     artist: "Artist: Iska bhi nai pata🤣",
     cover: "covers/tu cheez.jpg"
   }
