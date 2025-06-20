@@ -19,6 +19,12 @@ const songs = [
     title: "Ranu Bombai Ki Rani",
     artist: "Artist: Iska bhi nai pata🤣",
     cover: "covers/ranu.jpg"
+  },
+  {
+    name: "Tu Cheez Badi Hai.mp3",
+    title: "Fav song for now",
+    artist: "Artist: Iska bhi nai pata🤣",
+    cover: "covers/tu cheez.jpg"
   }
 ];
 
