@@ -31,6 +31,12 @@ const songs = [
     title: "Michael Bublé - Feeling Good",
     artist: "Artist: Michael Bublé",
     cover: "covers/feeling_good.jpg"
+  },
+  {
+    name: "mashup.mp3",
+    title: "Bollywood Mashup Songs",
+    artist: "Artist: DJ RAV UK",
+    cover: "covers/mashup.jpg"
   }
 ];
 
