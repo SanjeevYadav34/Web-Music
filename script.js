@@ -25,6 +25,12 @@ const songs = [
     title: "Tu Cheez Badi Hai Mast Mast",
     artist: "Artist: Iska bhi nai pata🤣",
     cover: "covers/tu cheez.jpg"
+  },
+  {
+    name: "feeling_good.mp3",
+    title: "Michael Bublé - Feeling Good",
+    artist: "Artist: Michael Bublé",
+    cover: "covers/feeling_good.jpg"
   }
 ];
 
