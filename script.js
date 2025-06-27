@@ -37,6 +37,12 @@ const songs = [
     title: "Bollywood Mashup Songs",
     artist: "Artist: DJ RAV UK",
     cover: "covers/mashup.jpg"
+  },
+  {
+    name: "dmashup.mp3",
+    title: "Bollywood Mashup 2",
+    artist: "Artist: DJ INDIANA",
+    cover: "covers/mashup.jpg"
   }
 ];
 
