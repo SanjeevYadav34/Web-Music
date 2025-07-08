@@ -58,7 +58,7 @@ const songs = [
   }
 ];
 
-let songIndex = 8;
+let songIndex = 7;
 
 function loadSong(song) {
   title.textContent = song.title;
