@@ -43,10 +43,22 @@ const songs = [
     title: "Bollywood Mashup 2",
     artist: "Artist: DJ INDIANA",
     cover: "covers/mashup.jpg"
+  },
+  {
+    name: "mashup_3.mp3",
+    title: "Mashup 3",
+    artist: "Artist: Farooq",
+    cover: "covers/mashup_3.jpg"
+  },
+  {
+    name: "lovemashup.mp3",
+    title: "Bollywood Love Mashup",
+    artist: "Artist: T-Series",
+    cover: "covers/lovemashup.jpg"
   }
 ];
 
-let songIndex = 0;
+let songIndex = 8;
 
 function loadSong(song) {
   title.textContent = song.title;
