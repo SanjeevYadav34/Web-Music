@@ -68,6 +68,7 @@ const songs = [
     artist: "Artist: DJ INDIANA",
     cover: "covers/mashup.jpg"
   },
+  {
     name: "mashup5.mp3",
     title: "Bollywood Mashup 5",
     artist: "Artist: DJ INDIANA",
