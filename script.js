@@ -34,9 +34,9 @@ const songs = [
   },
   {
     name: "new-mashup.mp3",
-    title: "Michael Bublé - Feeling Good",
-    artist: "Artist: Michael Bublé",
-    cover: "covers/feeling_good.jpg"
+    title: "INDIANA Mashup",
+    artist: "Artist: DJ INDIANA",
+    cover: "covers/mashup.jpg"
   },
   {
     name: "mashup.mp3",
