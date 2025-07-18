@@ -1,5 +1,5 @@
 const users = {
-  sanjeev: {
+  Sanjeev: {
     password: "sanjeev789",
     redirect: "Sindex.html"
   }
