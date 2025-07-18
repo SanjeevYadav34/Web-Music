@@ -11,7 +11,7 @@ function checkPassword(name) {
     alert("User not found!");
     return;
   }
-  const entered = prompt("Hey " + name + "Enter Your Password" + ":");
+  const entered = prompt("Hey " + name + " Enter Your Password" + ":");
   if (entered === null) return;
   if (entered === user.password) {
     window.location.href = user.redirect;
