@@ -6,6 +6,7 @@ const progress = document.getElementById("progress");
 const title = document.getElementById("title");
 const artist = document.getElementById("artist");
 const coverImg = document.getElementById("cover");
+const loopBtn = document.getElementById("loop");
 
 const songs = [
   {
@@ -83,6 +84,7 @@ const songs = [
 ];
 
 let songIndex = 8;
+let isLooping = false;
 
 function loadSong(song) {
   title.textContent = song.title;
@@ -134,4 +136,12 @@ progress.addEventListener("input", () => {
   if (audio.duration) {
     audio.currentTime = (progress.value * audio.duration) / 100;
   }
+});
+
+loopBtn.addEventListener("click", () => {
+  isLooping = !isLooping;
+  audio.loop = isLooping;
+
+  // Update button text
+  loopBtn.textContent = isLooping ? "🔁 Loop On" : "🔁 Loop Off";
 });
