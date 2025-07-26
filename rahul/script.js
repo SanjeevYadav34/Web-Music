@@ -246,6 +246,14 @@ progress.addEventListener("input", () => {
   }
 });
 
+audio.addEventListener("ended", () => {
+  if (!isLooping) {
+    songIndex = (songIndex + 1) % songs.length;
+    loadSong(songs[songIndex]);
+    audio.play();
+  }
+});
+
 loopBtn.addEventListener("click", () => {
   isLooping = !isLooping;
   audio.loop = isLooping;
