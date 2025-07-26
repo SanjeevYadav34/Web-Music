@@ -2,6 +2,10 @@ const users = {
   Sanjeev: {
     password: "sanjeev789",
     redirect: "Sindex.html"
+  },
+  rahul: {
+    password: "sanjeev789",
+    redirect: "rahul/index.html"
   }
 };
 
