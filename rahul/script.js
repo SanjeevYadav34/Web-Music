@@ -10,7 +10,7 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
   {
-    name: "#Video  हरइन  #Neelkamal Singh New Song  Heroine  #Bhojpuri Gana.mp3",
+    name: "neel.mp3",
     title: "#Video  हरइन  #Neelkamal Singh New Song  Heroine  #Bhojpuri Gana",
     artist: "",
     cover: "covers/neel.jpg"
