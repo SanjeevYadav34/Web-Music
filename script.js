@@ -3,7 +3,7 @@ const users = {
     password: "sanjeev789",
     redirect: "Sindex.html"
   },
-  rahul: {
+  Rahul: {
     password: "rahul789",
     redirect: "rahul/index.html"
   }
