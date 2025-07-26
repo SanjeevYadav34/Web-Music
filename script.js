@@ -4,7 +4,7 @@ const users = {
     redirect: "Sindex.html"
   },
   rahul: {
-    password: "sanjeev789",
+    password: "rahul789",
     redirect: "rahul/index.html"
   }
 };
