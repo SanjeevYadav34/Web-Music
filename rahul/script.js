@@ -16,7 +16,7 @@ const songs = [
     cover: "covers/neel.jpg"
   },
   {
-    name: "AISA  BANNA SAWARNA  ANJUM HUSSAIN  #qawali #trending #sogs #Aisabannasawarna #Sad #hits #song.mp3",
+    name: "aisa.mp3",
     title: "AISA  BANNA SAWARNA  ANJUM HUSSAIN  #qawali #trending #sogs #Aisabannasawarna #Sad #hits #song",
     artist: "",
     cover: "covers/aisa.jpg"
