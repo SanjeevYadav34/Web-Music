@@ -77,7 +77,7 @@ const songs = [
   }
 ];
 
-let songIndex = 0;
+let songIndex = 1;
 let isLooping = false;
 
 function loadSong(song) {
