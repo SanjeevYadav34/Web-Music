@@ -112,7 +112,7 @@ songs.forEach((song, index) => {
   const item = document.createElement("div");
   item.classList.add("song-item");
   item.innerHTML = `
-    <img src="${song.cover}" alt="cover">
+    <img src="../${song.cover}" alt="cover">
     <div class="song-info">
       <strong>${song.title}</strong><br>
       <small>${song.artist}</small>
