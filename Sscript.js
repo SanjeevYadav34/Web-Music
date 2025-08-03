@@ -7,6 +7,8 @@ const title = document.getElementById("title");
 const artist = document.getElementById("artist");
 const coverImg = document.getElementById("cover");
 const loopBtn = document.getElementById("loop");
+const songListDiv = document.getElementById("songList");
+
 
 const songs = [
   {
@@ -165,3 +167,20 @@ loopBtn.addEventListener("click", () => {
   // Update button text
   loopBtn.textContent = isLooping ? "🔁 Loop On" : "🔁 Loop Off";
 });
+
+songs.forEach((song, index) => {
+  const item = document.createElement("div");
+  item.classList.add("song-item");
+  item.innerHTML = `
+    <img src="${song.cover}" alt="cover">
+    <div class="song-info">
+      <strong>${song.title}</strong><br>
+      <small>${song.artist}</small>
+    </div>
+  `;
+  item.addEventListener("click", () => {
+    songIndex = index;
+    loadSong(songs[songIndex]);
+    audio.play();
+    playBtn.textContent = "⏸️";
+  });
