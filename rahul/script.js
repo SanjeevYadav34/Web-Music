@@ -261,3 +261,24 @@ loopBtn.addEventListener("click", () => {
   // Update button text
   loopBtn.textContent = isLooping ? "🔁 Loop On" : "🔁 Loop Off";
 });
+
+const songListDiv = document.getElementById("songList");
+
+songs.forEach((song, index) => {
+  const item = document.createElement("div");
+  item.classList.add("song-item");
+  item.innerHTML = `
+    <img src="${song.cover}" alt="cover">
+    <div class="song-info">
+      <strong>${song.title}</strong><br>
+      <small>${song.artist}</small>
+    </div>
+  `;
+  item.addEventListener("click", () => {
+    songIndex = index;
+    loadSong(songs[songIndex]);
+    audio.play();
+    playBtn.textContent = "⏸️";
+  });
+  songListDiv.appendChild(item);
+});
