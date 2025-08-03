@@ -7,7 +7,6 @@ const title = document.getElementById("title");
 const artist = document.getElementById("artist");
 const coverImg = document.getElementById("cover");
 const loopBtn = document.getElementById("loop");
-const colorThief = new ColorThief();
 
 const songs = [
   {
@@ -165,17 +164,4 @@ loopBtn.addEventListener("click", () => {
 
   // Update button text
   loopBtn.textContent = isLooping ? "🔁 Loop On" : "🔁 Loop Off";
-});
-
-coverImg.addEventListener('load', () => {
-  if (coverImg.complete) {
-    const palette = colorThief.getPalette(coverImg, 3); // get 3 main colors
-    const rgb1 = `rgb(${palette[0][0]}, ${palette[0][1]}, ${palette[0][2]})`;
-    const rgb2 = `rgb(${palette[1][0]}, ${palette[1][1]}, ${palette[1][2]})`;
-    const rgb3 = `rgb(${palette[2][0]}, ${palette[2][1]}, ${palette[2][2]})`;
-
-    document.body.style.background = `linear-gradient(270deg, ${rgb1}, ${rgb2}, ${rgb3})`;
-    document.body.style.backgroundSize = '600% 600%';
-    document.body.style.animation = 'gradientBG 20s ease infinite';
-  }
 });
