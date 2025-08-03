@@ -16,7 +16,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 40px 20px;
+  padding: 70px 20px;
   box-sizing: border-box;
   overflow-x: hidden;
 }
@@ -97,9 +97,4 @@ h2 {
   100% {
     transform: translateX(-100%);
   }
-}
-
-/* Optional: Push page content down below the strip */
-body {
-  padding-top: 30px;
 }
