@@ -86,6 +86,12 @@ const songs = [
     title: "It's Magic",
     artist: "Artist: DJ INDIANA",
     cover: "covers/mashup.jpg"
+  },
+  {
+    name: "beggin.mp3",
+    title: "Beggin",
+    artist: "Artist: Måneskin",
+    cover: "covers/beggin.jpg"
   }
 ];
 
