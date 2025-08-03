@@ -184,3 +184,5 @@ songs.forEach((song, index) => {
     audio.play();
     playBtn.textContent = "⏸️";
   });
+  songListDiv.appendChild(item);
+});
