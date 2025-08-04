@@ -94,6 +94,18 @@ const songs = [
     title: "Beggin",
     artist: "Artist: Måneskin",
     cover: "covers/beggin.jpg"
+  },
+  {
+    name: "sapphire.mp3",
+    title: "Sapphire",
+    artist: "Artist: Ed Sheeran",
+    cover: "covers/sapphire.jpg"
+  },
+  {
+    name: "fairytale.mp3",
+    title: "Fairytale",
+    artist: "Artist: Alexander Rybak",
+    cover: "covers/fairytale.jpg"
   }
 ];
 
