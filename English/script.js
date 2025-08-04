@@ -16,6 +16,18 @@ const songs = [
     cover: "covers/beggin.jpg"
   },
   {
+    name: "songs/sapphire.mp3",
+    title: "Sapphire",
+    artist: "Artist: Ed Sheeran",
+    cover: "covers/sapphire.jpg"
+  },
+  {
+    name: "songs/fairytale.mp3",
+    title: "Fairytale",
+    artist: "Artist: Alexander Rybak",
+    cover: "covers/fairytale.jpg"
+  },
+  {
     name: "songs/feeling_good.mp3",
     title: "Michael Bublé - Feeling Good",
     artist: "Artist: Michael Bublé",
