@@ -106,6 +106,12 @@ const songs = [
     title: "Fairytale",
     artist: "Artist: Alexander Rybak",
     cover: "covers/fairytale.jpg"
+  },
+  {
+    name: "cheri_cheri_lady.mp3",
+    title: "Cheri Cheri Lady",
+    artist: "Artist: Modern Talking",
+    cover: "covers/cheri_cheri_lady.webp"
   }
 ];
 
