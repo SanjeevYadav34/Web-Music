@@ -28,13 +28,13 @@ const songs = [
     cover: "covers/fairytale.jpg"
   },
   {
-    name: "cheri_cheri_lady.mp3",
+    name: "songs/cheri_cheri_lady.mp3",
     title: "Cheri Cheri Lady",
     artist: "Artist: Modern Talking",
     cover: "covers/cheri_cheri_lady.webp"
   },
   {
-    name: "senorita.mp3",
+    name: "songs/senorita.mp3",
     title: "SEÑORITA",
     artist: "Artist: Shawn Mendes, Camila Cabello",
     cover: "covers/senorita.webp"
