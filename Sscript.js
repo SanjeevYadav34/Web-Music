@@ -121,7 +121,7 @@ const songs = [
   },
   {
     name: "neutral.mp3",
-    title: "Imagine Dragons - Neutral",
+    title: "Imagine Dragons - Natural",
     artist: "Artist: Imagine Dragons",
     cover: "covers/neutral.webp"
   }
