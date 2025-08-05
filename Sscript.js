@@ -118,6 +118,12 @@ const songs = [
     title: "SEÑORITA",
     artist: "Artist: Shawn Mendes, Camila Cabello",
     cover: "covers/senorita.webp"
+  },
+  {
+    name: "neutral.mp3",
+    title: "Imagine Dragons - Neutral",
+    artist: "Artist: Imagine Dragons",
+    cover: "covers/neutral.webp"
   }
 ];
 
