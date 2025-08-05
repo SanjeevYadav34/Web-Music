@@ -40,6 +40,12 @@ const songs = [
     cover: "covers/senorita.webp"
   },
   {
+    name: "songs/neutral.mp3",
+    title: "Imagine Dragons - Neutral",
+    artist: "Artist: Imagine Dragons",
+    cover: "covers/neutral.webp"
+  },
+  {
     name: "songs/feeling_good.mp3",
     title: "Michael Bublé - Feeling Good",
     artist: "Artist: Michael Bublé",
