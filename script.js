@@ -6,6 +6,10 @@ const users = {
   Rahul: {
     password: "rahul789",
     redirect: "rahul/index.html"
+  },
+  Vanita: {
+    password: "vanita567",
+    redirect: "Vanita/index.html"
   }
 };
 
