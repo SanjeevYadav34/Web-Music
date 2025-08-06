@@ -12,7 +12,7 @@ const users = {
     redirect: "Vanita/index.html"
   },
   Indrajit: {
-    password: "indrajit234",
+    password: "indrajit2696",
     redirect: "Indrajit/index.html"
   }
 };
