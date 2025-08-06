@@ -1,62 +1,62 @@
 const songs = [
 {
-  name: "Itna_Na_Mujhse_Tu_Pyar_Badha_Talat_Mahmood_Lata_Mangeshkar.mp3",
-  title: "Itna Na Mujhse Tu Pyar Badha Talat Mahmood Lata Mangeshkar",
+  name: "Bade_Achhe_Lagte_Hain_Amit_Kumar_R._D._Burman.mp3",
+  title: "Bade Achhe Lagte Hain Amit Kumar R. D. Burman",
   artist: "Artist: Unknown",
-  cover: "covers/Itna_Na_Mujhse_Tu_Pyar_Badha_Talat_Mahmood_Lata_Mangeshkar.jpg"
+  cover: "covers/Bade_Achhe_Lagte_Hain_Amit_Kumar_R._D._Burman.jpg"
 },
 {
-  name: "Finding_Her_Kushagra_Bharath_Saaheal.mp3",
-  title: "Finding Her Kushagra Bharath Saaheal",
+  name: "Sanson_Ki_Mala_Peh_Simroon_Nusrat_Fateh_Ali_Khan.mp3",
+  title: "Sanson Ki Mala Peh Simroon Nusrat Fateh Ali Khan",
   artist: "Artist: Unknown",
-  cover: "covers/Finding_Her_Kushagra_Bharath_Saaheal.jpg"
+  cover: "covers/Sanson_Ki_Mala_Peh_Simroon_Nusrat_Fateh_Ali_Khan.jpg"
 },
 {
-  name: "Paro_Aditya_Rikhari_UNPLG'd.mp3",
-  title: "Paro Aditya Rikhari UNPLG'd",
+  name: "Suno_Na_Suno_Na_Abhijeet.mp3",
+  title: "Suno Na Suno Na Abhijeet",
   artist: "Artist: Unknown",
-  cover: "covers/Paro_Aditya_Rikhari_UNPLG'd.jpg"
+  cover: "covers/Suno_Na_Suno_Na_Abhijeet.jpg"
 },
 {
-  name: "Abhi_Na_Jao_Chhod_Kar_Asha_Bhosle_Mohammed_Rafi.mp3",
-  title: "Abhi Na Jao Chhod Kar Asha Bhosle Mohammed Rafi",
+  name: "Main_Koi_Aisa_Geet_Gaoon_Abhijeet_Alka_Yagnik.mp3",
+  title: "Main Koi Aisa Geet Gaoon Abhijeet Alka Yagnik",
   artist: "Artist: Unknown",
-  cover: "covers/Abhi_Na_Jao_Chhod_Kar_Asha_Bhosle_Mohammed_Rafi.jpg"
+  cover: "covers/Main_Koi_Aisa_Geet_Gaoon_Abhijeet_Alka_Yagnik.jpg"
 },
 {
-  name: "Tauba_Tumhare_Ishare_Abhijeet_Alka_Yagnik.mp3",
-  title: "Tauba Tumhare Ishare Abhijeet Alka Yagnik",
+  name: "Soniyo_Raju_Singh_Sonu_Nigam.mp3",
+  title: "Soniyo Raju Singh Sonu Nigam",
   artist: "Artist: Unknown",
-  cover: "covers/Tauba_Tumhare_Ishare_Abhijeet_Alka_Yagnik.jpg"
+  cover: "covers/Soniyo_Raju_Singh_Sonu_Nigam.jpg"
 },
 {
-  name: "O_Rangrez_Shankar_Ehsaan_Loy_Shreya_Ghoshal.mp3",
-  title: "O Rangrez Shankar Ehsaan Loy Shreya Ghoshal",
+  name: "Jadu_Hai_Nasha_Hai_2002_Shreya_Ghoshal_Neelesh_Misra.mp3",
+  title: "Jadu Hai Nasha Hai 2002 Shreya Ghoshal Neelesh Misra",
   artist: "Artist: Unknown",
-  cover: "covers/O_Rangrez_Shankar_Ehsaan_Loy_Shreya_Ghoshal.jpg"
+  cover: "covers/Jadu_Hai_Nasha_Hai_2002_Shreya_Ghoshal_Neelesh_Misra.jpg"
 },
 {
-  name: "Tum_Tak_From_Raanjhanaa_A_R_Rahman_Javed_Ali_Kirti.mp3",
-  title: "Tum Tak From Raanjhanaa A R Rahman Javed Ali Kirti",
+  name: "Jiyein_Kyun_Pritam_Papon.mp3",
+  title: "Jiyein Kyun Pritam Papon",
   artist: "Artist: Unknown",
-  cover: "covers/Tum_Tak_From_Raanjhanaa_A_R_Rahman_Javed_Ali_Kirti.jpg"
+  cover: "covers/Jiyein_Kyun_Pritam_Papon.jpg"
 },
 {
-  name: "Aaoge_Jab_Tum_Rashid_Khan_Sandesh_Shandilya_Faaiz.mp3",
-  title: "Aaoge Jab Tum Rashid Khan Sandesh Shandilya Faaiz",
+  name: "Bin_Tere_Vishal-Shekhar_Shafqat_Amanat_Ali.mp3",
+  title: "Bin Tere Vishal-Shekhar Shafqat Amanat Ali",
   artist: "Artist: Unknown",
-  cover: "covers/Aaoge_Jab_Tum_Rashid_Khan_Sandesh_Shandilya_Faaiz.jpg"
+  cover: "covers/Bin_Tere_Vishal-Shekhar_Shafqat_Amanat_Ali.jpg"
 },
 {
-  name: "Ek_Din_Aap_From_Yes_Boss_Kumar_Sanu_Alka_Yagnik.mp3",
-  title: "Ek Din Aap From Yes Boss Kumar Sanu Alka Yagnik",
+  name: "Saware_Pritam_Arijit_Singh.mp3",
+  title: "Saware Pritam Arijit Singh",
   artist: "Artist: Unknown",
-  cover: "covers/Ek_Din_Aap_From_Yes_Boss_Kumar_Sanu_Alka_Yagnik.jpg"
+  cover: "covers/Saware_Pritam_Arijit_Singh.jpg"
 },
 {
-  name: "In_Dino_Pritam_Soham.mp3",
-  title: "In Dino Pritam Soham",
+  name: "Tu_Hi_Re_From_Bombay_Hariharan_Kavita_Krishnamurthy.mp3",
+  title: "Tu Hi Re From Bombay Hariharan Kavita Krishnamurthy",
   artist: "Artist: Unknown",
-  cover: "covers/In_Dino_Pritam_Soham.jpg"
+  cover: "covers/Tu_Hi_Re_From_Bombay_Hariharan_Kavita_Krishnamurthy.jpg"
 }
 ];
