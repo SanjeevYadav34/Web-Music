@@ -64,8 +64,14 @@ const songs = [
   cover: "covers/Ed_Sheeran_-_Shape_of_You.jpg"
 },
 {
+  name: "Ed_-_Sheeran_-_I_Don't_Care.mp3",
+  title: "Ed - Sheeran - I Don't Care",
+  artist: "Artist: Unknown",
+  cover: "covers/Ed_-_Sheeran_-_I_Don't_Care.jpg"
+},
+{
   name: "Ed_Sheeran_-_I_Don't_Care_Ed_Sheeran_-_Beautiful_People.mp3",
-  title: "Ed Sheeran - I Don't Care Ed Sheeran - Beautiful People",
+  title: "Ed Sheeran - Beautiful People",
   artist: "Artist: Unknown",
   cover: "covers/Ed_Sheeran_-_I_Don't_Care_Ed_Sheeran_-_Beautiful_People.jpg"
 },
