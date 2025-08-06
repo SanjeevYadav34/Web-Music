@@ -1,62 +1,80 @@
 const songs = [
 {
-  name: "Bade_Achhe_Lagte_Hain_Amit_Kumar_R._D._Burman.mp3",
-  title: "Bade Achhe Lagte Hain Amit Kumar R. D. Burman",
+  name: "Tum_Se_Hi_Pritam_Mohit_Chauhan_Irshad_Kamil.mp3",
+  title: "Tum Se Hi Pritam Mohit Chauhan Irshad Kamil",
   artist: "Artist: Unknown",
-  cover: "covers/Bade_Achhe_Lagte_Hain_Amit_Kumar_R._D._Burman.jpg"
+  cover: "covers/Tum_Se_Hi_Pritam_Mohit_Chauhan_Irshad_Kamil.jpg"
 },
 {
-  name: "Sanson_Ki_Mala_Peh_Simroon_Nusrat_Fateh_Ali_Khan.mp3",
-  title: "Sanson Ki Mala Peh Simroon Nusrat Fateh Ali Khan",
+  name: "Dhoonde_Akhiyaan_From_Jabariya_Jodi_Yasser_Desai_Altamash_Faridi_Rashmi_Virag.mp3",
+  title: "Dhoonde Akhiyaan From Jabariya Jodi Yasser Desai Altamash Faridi Rashmi Virag",
   artist: "Artist: Unknown",
-  cover: "covers/Sanson_Ki_Mala_Peh_Simroon_Nusrat_Fateh_Ali_Khan.jpg"
+  cover: "covers/Dhoonde_Akhiyaan_From_Jabariya_Jodi_Yasser_Desai_Altamash_Faridi_Rashmi_Virag.jpg"
 },
 {
-  name: "Suno_Na_Suno_Na_Abhijeet.mp3",
-  title: "Suno Na Suno Na Abhijeet",
+  name: "Mere_Bina_Pritam_Nikhil_D'Souza.mp3",
+  title: "Mere Bina Pritam Nikhil D'Souza",
   artist: "Artist: Unknown",
-  cover: "covers/Suno_Na_Suno_Na_Abhijeet.jpg"
+  cover: "covers/Mere_Bina_Pritam_Nikhil_D'Souza.jpg"
 },
 {
-  name: "Main_Koi_Aisa_Geet_Gaoon_Abhijeet_Alka_Yagnik.mp3",
-  title: "Main Koi Aisa Geet Gaoon Abhijeet Alka Yagnik",
+  name: "Moh_Moh_Ke_Dhaage_Female_Anu_Malik_Monali_Thakur_Varun_Grover.mp3",
+  title: "Moh Moh Ke Dhaage Female Anu Malik Monali Thakur Varun Grover",
   artist: "Artist: Unknown",
-  cover: "covers/Main_Koi_Aisa_Geet_Gaoon_Abhijeet_Alka_Yagnik.jpg"
+  cover: "covers/Moh_Moh_Ke_Dhaage_Female_Anu_Malik_Monali_Thakur_Varun_Grover.jpg"
 },
 {
-  name: "Soniyo_Raju_Singh_Sonu_Nigam.mp3",
-  title: "Soniyo Raju Singh Sonu Nigam",
+  name: "Tum_Mile_Pritam_Neeraj_Shridhar.mp3",
+  title: "Tum Mile Pritam Neeraj Shridhar",
   artist: "Artist: Unknown",
-  cover: "covers/Soniyo_Raju_Singh_Sonu_Nigam.jpg"
+  cover: "covers/Tum_Mile_Pritam_Neeraj_Shridhar.jpg"
 },
 {
-  name: "Jadu_Hai_Nasha_Hai_2002_Shreya_Ghoshal_Neelesh_Misra.mp3",
-  title: "Jadu Hai Nasha Hai 2002 Shreya Ghoshal Neelesh Misra",
+  name: "Ajab_Si_Vishal-Shekhar_KK.mp3",
+  title: "Ajab Si Vishal-Shekhar KK",
   artist: "Artist: Unknown",
-  cover: "covers/Jadu_Hai_Nasha_Hai_2002_Shreya_Ghoshal_Neelesh_Misra.jpg"
+  cover: "covers/Ajab_Si_Vishal-Shekhar_KK.jpg"
 },
 {
-  name: "Jiyein_Kyun_Pritam_Papon.mp3",
-  title: "Jiyein Kyun Pritam Papon",
+  name: "Raanjhanaa_From_Raanjhanaa_A_R_Rahman_Jaswinder_Singh.mp3",
+  title: "Raanjhanaa From Raanjhanaa A R Rahman Jaswinder Singh",
   artist: "Artist: Unknown",
-  cover: "covers/Jiyein_Kyun_Pritam_Papon.jpg"
+  cover: "covers/Raanjhanaa_From_Raanjhanaa_A_R_Rahman_Jaswinder_Singh.jpg"
 },
 {
-  name: "Bin_Tere_Vishal-Shekhar_Shafqat_Amanat_Ali.mp3",
-  title: "Bin Tere Vishal-Shekhar Shafqat Amanat Ali",
+  name: "Mera_Yaar_Shankar-Ehsaan-Loy_Javed_Bashir.mp3",
+  title: "Mera Yaar Shankar-Ehsaan-Loy Javed Bashir",
   artist: "Artist: Unknown",
-  cover: "covers/Bin_Tere_Vishal-Shekhar_Shafqat_Amanat_Ali.jpg"
+  cover: "covers/Mera_Yaar_Shankar-Ehsaan-Loy_Javed_Bashir.jpg"
 },
 {
-  name: "Saware_Pritam_Arijit_Singh.mp3",
-  title: "Saware Pritam Arijit Singh",
+  name: "Khudaya_Khair_Pritam_Soham_Chakraborty_Akriti_Kakar.mp3",
+  title: "Khudaya Khair Pritam Soham Chakraborty Akriti Kakar",
   artist: "Artist: Unknown",
-  cover: "covers/Saware_Pritam_Arijit_Singh.jpg"
+  cover: "covers/Khudaya_Khair_Pritam_Soham_Chakraborty_Akriti_Kakar.jpg"
 },
 {
-  name: "Tu_Hi_Re_From_Bombay_Hariharan_Kavita_Krishnamurthy.mp3",
-  title: "Tu Hi Re From Bombay Hariharan Kavita Krishnamurthy",
+  name: "Saudebazi_Encore_Pritam_Javed_Ali.mp3",
+  title: "Saudebazi Encore Pritam Javed Ali",
   artist: "Artist: Unknown",
-  cover: "covers/Tu_Hi_Re_From_Bombay_Hariharan_Kavita_Krishnamurthy.jpg"
+  cover: "covers/Saudebazi_Encore_Pritam_Javed_Ali.jpg"
+},
+{
+  name: "Ramta_Jogi_Sukhwinder_Singh_Alka_Yagnik.mp3",
+  title: "Ramta Jogi Sukhwinder Singh Alka Yagnik",
+  artist: "Artist: Unknown",
+  cover: "covers/Ramta_Jogi_Sukhwinder_Singh_Alka_Yagnik.jpg"
+},
+{
+  name: "Taal_Se_Taal_Western_Version_Sukhwinder_Singh.mp3",
+  title: "Taal Se Taal Western Version Sukhwinder Singh",
+  artist: "Artist: Unknown",
+  cover: "covers/Taal_Se_Taal_Western_Version_Sukhwinder_Singh.jpg"
+},
+{
+  name: "Kehna_Hi_Kya_From_Bombay_K._S._Chithra.mp3",
+  title: "Kehna Hi Kya From Bombay K. S. Chithra",
+  artist: "Artist: Unknown",
+  cover: "covers/Kehna_Hi_Kya_From_Bombay_K._S._Chithra.jpg"
 }
 ];
