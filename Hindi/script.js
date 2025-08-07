@@ -86,7 +86,6 @@ function loadSong(song) {
   audio.src = "../" + song.name;
   coverImg.src = "../" + song.cover;
   resetProgress();
-  highlightActiveSong();
 }
 
 function resetProgress() {
@@ -133,31 +132,13 @@ progress.addEventListener("input", () => {
   }
 });
 
-const timeDisplay = document.getElementById("time-display");
-
-audio.addEventListener("timeupdate", () => {
-  if (audio.duration) {
-    progress.value = (audio.currentTime / audio.duration) * 100;
-
-    const format = (sec) => {
-      const m = Math.floor(sec / 60);
-      const s = Math.floor(sec % 60);
-      return `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
-    };
-
-    timeDisplay.textContent = `${format(audio.currentTime)} / ${format(audio.duration)}`;
-  }
-});
-
-
 audio.addEventListener("ended", () => {
-  if (!isLooping) {
-    songIndex = (songIndex + 1) % songs.length;
-    loadSong(songs[songIndex]);
-    audio.play();
-  }
+  if (!isLooping) {
+    songIndex = (songIndex + 1) % songs.length;
+    loadSong(songs[songIndex]);
+    audio.play();
+  }
 });
-
 
 loopBtn.addEventListener("click", () => {
   isLooping = !isLooping;
@@ -173,32 +154,17 @@ songs.forEach((song, index) => {
   const item = document.createElement("div");
   item.classList.add("song-item");
   item.innerHTML = `
-    <img src="${song.cover}" alt="cover">
+    <img src="../${song.cover}" alt="cover">
     <div class="song-info">
       <strong>${song.title}</strong><br>
       <small>${song.artist}</small>
     </div>
   `;
-  item.dataset.index = index;
-
-item.addEventListener("click", (e) => {
-  songIndex = parseInt(item.dataset.index);
-  loadSong(songs[songIndex]);
-  audio.play();
-  playBtn.textContent = "⏸️";
-});
-
+  item.addEventListener("click", () => {
+    songIndex = index;
+    loadSong(songs[songIndex]);
+    audio.play();
+    playBtn.textContent = "⏸️";
+  });
   songListDiv.appendChild(item);
 });
-
-function highlightActiveSong() {
-  const items = document.querySelectorAll(".song-item");
-  items.forEach((item, index) => {
-    if (index === songIndex) {
-      item.classList.add("active");
-    } else {
-      item.classList.remove("active");
-    }
-  });
-}
-highlightActiveSong();
