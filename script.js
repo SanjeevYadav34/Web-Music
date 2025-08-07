@@ -14,6 +14,10 @@ const users = {
   Indrajit: {
     password: "indrajit2696",
     redirect: "Indrajit/index.html"
+  },
+  Sagar: {
+    password: "sagar138",
+    redirect: "Sagar/index.html"
   }
 };
 
