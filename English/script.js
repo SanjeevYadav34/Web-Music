@@ -40,16 +40,16 @@ const songs = [
     cover: "covers/senorita.webp"
   },
   {
-    name: "songs/neutral.mp3",
-    title: "Imagine Dragons - Natural",
-    artist: "Artist: Imagine Dragons",
-    cover: "covers/neutral.webp"
-  },
-  {
     name: "songs/feeling_good.mp3",
     title: "Michael Bublé - Feeling Good",
     artist: "Artist: Michael Bublé",
     cover: "covers/feeling_good.jpg"
+  },
+  {
+    name: "songs/neutral.mp3",
+    title: "Imagine Dragons - Natural",
+    artist: "Artist: Imagine Dragons",
+    cover: "covers/neutral.webp"
   },
 {
   name: "Indrajit/songs/Imagine_Dragons_-_Bones.mp3",
