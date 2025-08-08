@@ -44,12 +44,20 @@ const songs = [
 let songIndex = 0;
 let isLooping = false;
 
+function highlightActiveSong() {
+  document.querySelectorAll(".song-item").forEach((el, idx) => {
+    el.classList.toggle("active", idx === songIndex);
+  });
+}
+
+
 function loadSong(song) {
   title.textContent = song.title;
   artist.textContent = song.artist;
   audio.src = "songs/" + encodeURIComponent(song.name);
   coverImg.src = song.cover;
   resetProgress();
+  highlightActiveSong();
 }
 
 function resetProgress() {
@@ -132,3 +140,5 @@ songs.forEach((song, index) => {
   });
   songListDiv.appendChild(item);
 });
+
+highlightActiveSong();
