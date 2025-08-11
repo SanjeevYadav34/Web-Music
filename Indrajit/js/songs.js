@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Ed_-_Sheeran_-_I_Don't_Care.mp3",
-  title: "Ed - Sheeran - I Don't Care",
+  name: "Enemy_-_Tommee_Profitt,_Sam_Tinnesz_&_Beacon_Light.mp3",
+  title: "Enemy - Tommee Profitt, Sam Tinnesz & Beacon Light",
   artist: "Artist: Unknown",
-  cover: "covers/Ed_-_Sheeran_-_I_Don't_Care.jpg"
+  cover: "covers/Enemy_-_Tommee_Profitt,_Sam_Tinnesz_&_Beacon_Light.jpg"
 }
 ];
