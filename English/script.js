@@ -9,6 +9,12 @@ const coverImg = document.getElementById("cover");
 const loopBtn = document.getElementById("loop");
 
 const songs = [
+{
+  name: "Indrajit/songs/Enemy_-_Tommee_Profitt,_Sam_Tinnesz_&_Beacon_Light.mp3",
+  title: "Enemy - Tommee Profitt, Sam Tinnesz & Beacon Light",
+  artist: "Artist: Unknown",
+  cover: "Indrajit/covers/Enemy_-_Tommee_Profitt,_Sam_Tinnesz_&_Beacon_Light.jpg"
+},
   {
     name: "songs/beggin.mp3",
     title: "Beggin",
