@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Indrajit's Playlist</title>
+  <link rel="stylesheet" href="../../Sstyle.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+  
+</head>
+<body>
+  <div class="branding-bar">
+  <h1>Web Music(BETA)</h1>
+  </div>
+
+  <div class="player">
+    <img id="cover" src="covers/#Video  हरइन  #Neelkamal Singh New Song  Heroine  #Bhojpuri Gana.jpg" alt="Album Cover" />
+    <h2 id="title">Song Title</h2>
+    <h4 id="artist">Artist</h4>
+    
+    <audio id="audio" src="songs/#Video  हरइन  #Neelkamal Singh New Song  Heroine  #Bhojpuri Gana.mp3"></audio>
+    
+    <div class="controls">
+      <button id="prev">⏮️</button>
+      <button id="play">▶️</button>
+      <button id="next">⏭️</button>
+      <button id="loop" style="padding-right: 61px;">🔁 Loop Off</button>
+    </div>
+
+    <div class="progress-container">
+      <input type="range" id="progress" value="0" />
+    </div>
+  </div>
+  <div class="song-list" id="songList"></div>  
+
+  <script src="script.js"></script>
+</body>
+</html>
