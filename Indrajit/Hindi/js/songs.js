@@ -1,104 +1,92 @@
 const songs = [
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Badtameez_Dil.mp3",
-  title: "Yeh Jawani Hai Deewani - Badtameez Dil",
+  name: "Tamasha_-_Matargashti.mp3",
+  title: "Tamasha - Matargashti",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Badtameez_Dil.jpg"
+  cover: "covers/Tamasha_-_Matargashti.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Ilahi_(Arijit_Singh).mp3",
-  title: "Yeh Jawani Hai Deewani - Ilahi (Arijit Singh)",
+  name: "Tamasha_-_Agar_Tum_Saath_Ho.mp3",
+  title: "Tamasha - Agar Tum Saath Ho",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Ilahi_(Arijit_Singh).jpg"
+  cover: "covers/Tamasha_-_Agar_Tum_Saath_Ho.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Ilahi_(Reprise_Mohit_Chauhan).mp3",
-  title: "Yeh Jawani Hai Deewani - Ilahi (Reprise Mohit Chauhan)",
+  name: "Tamasha_-_Safarnama.mp3",
+  title: "Tamasha - Safarnama",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Ilahi_(Reprise_Mohit_Chauhan).jpg"
+  cover: "covers/Tamasha_-_Safarnama.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Kabira.mp3",
-  title: "Yeh Jawani Hai Deewani - Kabira",
+  name: "Barfi_-_Ala_Barfi_(Mohit_Chauhan).mp3",
+  title: "Barfi - Ala Barfi (Mohit Chauhan)",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Kabira.jpg"
+  cover: "covers/Barfi_-_Ala_Barfi_(Mohit_Chauhan).jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Kabira_(Encore).mp3",
-  title: "Yeh Jawani Hai Deewani - Kabira (Encore)",
+  name: "Barfi_-_Ala_Barfi_(Swanand_Kirkire).mp3",
+  title: "Barfi - Ala Barfi (Swanand Kirkire)",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Kabira_(Encore).jpg"
+  cover: "covers/Barfi_-_Ala_Barfi_(Swanand_Kirkire).jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Subhanallah.mp3",
-  title: "Yeh Jawani Hai Deewani - Subhanallah",
+  name: "Barfi_-_Main_Kya_Karoon.mp3",
+  title: "Barfi - Main Kya Karoon",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Subhanallah.jpg"
+  cover: "covers/Barfi_-_Main_Kya_Karoon.jpg"
 },
 {
-  name: "Ae_Dil_Hai_Mushkil_Song.mp3",
-  title: "Ae Dil Hai Mushkil Song",
+  name: "Barfi_-_Aashiyan_(Solo).mp3",
+  title: "Barfi - Aashiyan (Solo)",
   artist: "Artist: Unknown",
-  cover: "covers/Ae_Dil_Hai_Mushkil_Song.jpg"
+  cover: "covers/Barfi_-_Aashiyan_(Solo).jpg"
 },
 {
-  name: "Ae_Dil_Hai_Mushkil_-_Bulleya.mp3",
-  title: "Ae Dil Hai Mushkil - Bulleya",
+  name: "Barfi_-_Kyon.mp3",
+  title: "Barfi - Kyon",
   artist: "Artist: Unknown",
-  cover: "covers/Ae_Dil_Hai_Mushkil_-_Bulleya.jpg"
+  cover: "covers/Barfi_-_Kyon.jpg"
 },
 {
-  name: "Ae_Dil_Hai_Mushkil_-_Channa_Mereya.mp3",
-  title: "Ae Dil Hai Mushkil - Channa Mereya",
+  name: "Barfi_-_Phir_le_Aya_Dil_(Arijit_Singh).mp3",
+  title: "Barfi - Phir le Aya Dil (Arijit Singh)",
   artist: "Artist: Unknown",
-  cover: "covers/Ae_Dil_Hai_Mushkil_-_Channa_Mereya.jpg"
+  cover: "covers/Barfi_-_Phir_le_Aya_Dil_(Arijit_Singh).jpg"
 },
 {
-  name: "Ae_Dil_Hai_Mushkil_-_Aaj_Jane_Ki_Zid_Na_Karo.mp3",
-  title: "Ae Dil Hai Mushkil - Aaj Jane Ki Zid Na Karo",
+  name: "Barfi_-_Phir_le_Aya_Dil_(Rekha_Bhardwaj).mp3",
+  title: "Barfi - Phir le Aya Dil (Rekha Bhardwaj)",
   artist: "Artist: Unknown",
-  cover: "covers/Ae_Dil_Hai_Mushkil_-_Aaj_Jane_Ki_Zid_Na_Karo.jpg"
+  cover: "covers/Barfi_-_Phir_le_Aya_Dil_(Rekha_Bhardwaj).jpg"
 },
 {
-  name: "Dil_Chahta_Hai_Song.mp3",
-  title: "Dil Chahta Hai Song",
+  name: "Barfi_-_Phir_le_Aya_Dil_(Reprise).mp3",
+  title: "Barfi - Phir le Aya Dil (Reprise)",
   artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_Song.jpg"
+  cover: "covers/Barfi_-_Phir_le_Aya_Dil_(Reprise).jpg"
 },
 {
-  name: "Dil_Chahta_Hai_(Reprise).mp3",
-  title: "Dil Chahta Hai (Reprise)",
+  name: "Kedarnath_-_Namo_Namo.mp3",
+  title: "Kedarnath - Namo Namo",
   artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_(Reprise).jpg"
+  cover: "covers/Kedarnath_-_Namo_Namo.jpg"
 },
 {
-  name: "Dil_Chahta_Hai_-_Tanhayee.mp3",
-  title: "Dil Chahta Hai - Tanhayee",
+  name: "Kedarnath_-_Qaafirana.mp3",
+  title: "Kedarnath - Qaafirana",
   artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Tanhayee.jpg"
+  cover: "covers/Kedarnath_-_Qaafirana.jpg"
 },
 {
-  name: "Dil_Chahta_Hai_-_Jaane_Kyon_Log_Pyar.mp3",
-  title: "Dil Chahta Hai - Jaane Kyon Log Pyar",
+  name: "Kedarnath_-_Jaan_Nisaar_(Arijit).mp3",
+  title: "Kedarnath - Jaan Nisaar (Arijit)",
   artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Jaane_Kyon_Log_Pyar.jpg"
+  cover: "covers/Kedarnath_-_Jaan_Nisaar_(Arijit).jpg"
 },
 {
-  name: "Dil_Chahta_Hai_-_Kaisi_Hai_Ye_Rut.mp3",
-  title: "Dil Chahta Hai - Kaisi Hai Ye Rut",
+  name: "Kedarnath_-_Jaan_Nisaar_(Asees).mp3",
+  title: "Kedarnath - Jaan Nisaar (Asees)",
   artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Kaisi_Hai_Ye_Rut.jpg"
-},
-{
-  name: "Dil_Chahta_Hai_-_Koi_Kahe_Kehta_Rahe.mp3",
-  title: "Dil Chahta Hai - Koi Kahe Kehta Rahe",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Koi_Kahe_Kehta_Rahe.jpg"
-},
-{
-  name: "Dil_Chahta_Hai_-_Woh_Ladki_Hai_Kahan.mp3",
-  title: "Dil Chahta Hai - Woh Ladki Hai Kahan",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Woh_Ladki_Hai_Kahan.jpg"
+  cover: "covers/Kedarnath_-_Jaan_Nisaar_(Asees).jpg"
 }
 ];
