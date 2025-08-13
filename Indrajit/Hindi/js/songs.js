@@ -1,86 +1,104 @@
 const songs = [
 {
-  name: "Rockstar_-_Aur_Ho.mp3",
-  title: "Rockstar - Aur Ho",
+  name: "Yeh_Jawani_Hai_Deewani_-_Badtameez_Dil.mp3",
+  title: "Yeh Jawani Hai Deewani - Badtameez Dil",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Aur_Ho.jpg"
+  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Badtameez_Dil.jpg"
 },
 {
-  name: "Rockstar_-_Tum_Ho.mp3",
-  title: "Rockstar - Tum Ho",
+  name: "Yeh_Jawani_Hai_Deewani_-_Ilahi_(Arijit_Singh).mp3",
+  title: "Yeh Jawani Hai Deewani - Ilahi (Arijit Singh)",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Tum_Ho.jpg"
+  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Ilahi_(Arijit_Singh).jpg"
 },
 {
-  name: "Rockstar_-_Jo_Bhi_main.mp3",
-  title: "Rockstar - Jo Bhi main",
+  name: "Yeh_Jawani_Hai_Deewani_-_Ilahi_(Reprise_Mohit_Chauhan).mp3",
+  title: "Yeh Jawani Hai Deewani - Ilahi (Reprise Mohit Chauhan)",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Jo_Bhi_main.jpg"
+  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Ilahi_(Reprise_Mohit_Chauhan).jpg"
 },
 {
-  name: "Rockstar_-_Sadda_Haq.mp3",
-  title: "Rockstar - Sadda Haq",
+  name: "Yeh_Jawani_Hai_Deewani_-_Kabira.mp3",
+  title: "Yeh Jawani Hai Deewani - Kabira",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Sadda_Haq.jpg"
+  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Kabira.jpg"
 },
 {
-  name: "Rockstar_-_Phir_Se_Ud_Chala.mp3",
-  title: "Rockstar - Phir Se Ud Chala",
+  name: "Yeh_Jawani_Hai_Deewani_-_Kabira_(Encore).mp3",
+  title: "Yeh Jawani Hai Deewani - Kabira (Encore)",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Phir_Se_Ud_Chala.jpg"
+  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Kabira_(Encore).jpg"
 },
 {
-  name: "Rockstar_-_Nadaan_Parinde.mp3",
-  title: "Rockstar - Nadaan Parinde",
+  name: "Yeh_Jawani_Hai_Deewani_-_Subhanallah.mp3",
+  title: "Yeh Jawani Hai Deewani - Subhanallah",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Nadaan_Parinde.jpg"
+  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Subhanallah.jpg"
 },
 {
-  name: "Rockstar_-_Kun_Faya_Kun.mp3",
-  title: "Rockstar - Kun Faya Kun",
+  name: "Ae_Dil_Hai_Mushkil_Song.mp3",
+  title: "Ae Dil Hai Mushkil Song",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Kun_Faya_Kun.jpg"
+  cover: "covers/Ae_Dil_Hai_Mushkil_Song.jpg"
 },
 {
-  name: "Rockstar_-_Jaagran.mp3",
-  title: "Rockstar - Jaagran",
+  name: "Ae_Dil_Hai_Mushkil_-_Bulleya.mp3",
+  title: "Ae Dil Hai Mushkil - Bulleya",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Jaagran.jpg"
+  cover: "covers/Ae_Dil_Hai_Mushkil_-_Bulleya.jpg"
 },
 {
-  name: "Kites_-_Zindagi_Do_Pal_Ki.mp3",
-  title: "Kites - Zindagi Do Pal Ki",
+  name: "Ae_Dil_Hai_Mushkil_-_Channa_Mereya.mp3",
+  title: "Ae Dil Hai Mushkil - Channa Mereya",
   artist: "Artist: Unknown",
-  cover: "covers/Kites_-_Zindagi_Do_Pal_Ki.jpg"
+  cover: "covers/Ae_Dil_Hai_Mushkil_-_Channa_Mereya.jpg"
 },
 {
-  name: "Kites_-_Dil_Kyun_Yeh_Mera.mp3",
-  title: "Kites - Dil Kyun Yeh Mera",
+  name: "Ae_Dil_Hai_Mushkil_-_Aaj_Jane_Ki_Zid_Na_Karo.mp3",
+  title: "Ae Dil Hai Mushkil - Aaj Jane Ki Zid Na Karo",
   artist: "Artist: Unknown",
-  cover: "covers/Kites_-_Dil_Kyun_Yeh_Mera.jpg"
+  cover: "covers/Ae_Dil_Hai_Mushkil_-_Aaj_Jane_Ki_Zid_Na_Karo.jpg"
 },
 {
-  name: "Kites_-_Tum_Bhi_Ho_Wahi.mp3",
-  title: "Kites - Tum Bhi Ho Wahi",
+  name: "Dil_Chahta_Hai_Song.mp3",
+  title: "Dil Chahta Hai Song",
   artist: "Artist: Unknown",
-  cover: "covers/Kites_-_Tum_Bhi_Ho_Wahi.jpg"
+  cover: "covers/Dil_Chahta_Hai_Song.jpg"
 },
 {
-  name: "Kites_in_the_Sky_Song.mp3",
-  title: "Kites in the Sky Song",
+  name: "Dil_Chahta_Hai_(Reprise).mp3",
+  title: "Dil Chahta Hai (Reprise)",
   artist: "Artist: Unknown",
-  cover: "covers/Kites_in_the_Sky_Song.jpg"
+  cover: "covers/Dil_Chahta_Hai_(Reprise).jpg"
 },
 {
-  name: "Wake_Up_Sid_-_Iktara.mp3",
-  title: "Wake Up Sid - Iktara",
+  name: "Dil_Chahta_Hai_-_Tanhayee.mp3",
+  title: "Dil Chahta Hai - Tanhayee",
   artist: "Artist: Unknown",
-  cover: "covers/Wake_Up_Sid_-_Iktara.jpg"
+  cover: "covers/Dil_Chahta_Hai_-_Tanhayee.jpg"
 },
 {
-  name: "Wake_Up_Sid_-_Aaj_Kal_Zindagi.mp3",
-  title: "Wake Up Sid - Aaj Kal Zindagi",
+  name: "Dil_Chahta_Hai_-_Jaane_Kyon_Log_Pyar.mp3",
+  title: "Dil Chahta Hai - Jaane Kyon Log Pyar",
   artist: "Artist: Unknown",
-  cover: "covers/Wake_Up_Sid_-_Aaj_Kal_Zindagi.jpg"
+  cover: "covers/Dil_Chahta_Hai_-_Jaane_Kyon_Log_Pyar.jpg"
+},
+{
+  name: "Dil_Chahta_Hai_-_Kaisi_Hai_Ye_Rut.mp3",
+  title: "Dil Chahta Hai - Kaisi Hai Ye Rut",
+  artist: "Artist: Unknown",
+  cover: "covers/Dil_Chahta_Hai_-_Kaisi_Hai_Ye_Rut.jpg"
+},
+{
+  name: "Dil_Chahta_Hai_-_Koi_Kahe_Kehta_Rahe.mp3",
+  title: "Dil Chahta Hai - Koi Kahe Kehta Rahe",
+  artist: "Artist: Unknown",
+  cover: "covers/Dil_Chahta_Hai_-_Koi_Kahe_Kehta_Rahe.jpg"
+},
+{
+  name: "Dil_Chahta_Hai_-_Woh_Ladki_Hai_Kahan.mp3",
+  title: "Dil Chahta Hai - Woh Ladki Hai Kahan",
+  artist: "Artist: Unknown",
+  cover: "covers/Dil_Chahta_Hai_-_Woh_Ladki_Hai_Kahan.jpg"
 }
 ];
