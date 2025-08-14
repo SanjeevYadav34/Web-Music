@@ -76,10 +76,10 @@ const songs = [
     cover: "rahul/covers/tere.jpg"
   },
 {
-  name: "Sanson_Ki_Mala_Pe_Nusrat_Fateh_Ali_Khan_Saluja_theking.mp3",
-  title: "Sanson Ki Mala Pe Nusrat Fateh Ali Khan Saluja theking",
+  name: "sanso-ki.mp3",
+  title: "Sanson Ki Mala Pe Nusrat Fateh Ali Khan",
   artist: "Artist: Unknown",
-  cover: "covers/Sanson_Ki_Mala_Pe_Nusrat_Fateh_Ali_Khan_Saluja_theking.jpg"
+  cover: "covers/sanso-ki.jpg"
 }
 ];
 
