@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Sanson_Ki_Mala_Pe_Nusrat_Fateh_Ali_Khan_Saluja_theking.mp3",
-  title: "Sanson Ki Mala Pe Nusrat Fateh Ali Khan Saluja theking",
+  name: "Amit_Trivedi_-_Naina_Da_Kya_Kasoor.mp3",
+  title: "Amit Trivedi - Naina Da Kya Kasoor",
   artist: "Artist: Unknown",
-  cover: "covers/Sanson_Ki_Mala_Pe_Nusrat_Fateh_Ali_Khan_Saluja_theking.jpg"
+  cover: "covers/Amit_Trivedi_-_Naina_Da_Kya_Kasoor.jpg"
 }
 ];
