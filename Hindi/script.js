@@ -74,7 +74,13 @@ const songs = [
     title: "Tere Bina Na Guzara Full Song  Satinder Sartaaj  JOSH BRAR  Karan Bir Music  New Punjabi Songs",
     artist: "",
     cover: "rahul/covers/tere.jpg"
-  }
+  },
+{
+  name: "Sanson_Ki_Mala_Pe_Nusrat_Fateh_Ali_Khan_Saluja_theking.mp3",
+  title: "Sanson Ki Mala Pe Nusrat Fateh Ali Khan Saluja theking",
+  artist: "Artist: Unknown",
+  cover: "covers/Sanson_Ki_Mala_Pe_Nusrat_Fateh_Ali_Khan_Saluja_theking.jpg"
+}
 ];
 
 let songIndex = 1;
