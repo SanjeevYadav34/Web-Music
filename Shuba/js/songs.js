@@ -1,62 +1,62 @@
 const songs = [
 {
-  name: "Anirudh_Ravichander_-_Why_This_Kolaveri_Di.mp3",
-  title: "Anirudh Ravichander - Why This Kolaveri Di",
+  name: "Anirudh_Ravichander_-_Azhage_Azhage.mp3",
+  title: "Anirudh Ravichander - Azhage Azhage",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Why_This_Kolaveri_Di.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Azhage_Azhage.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Po_Nee_Po.mp3",
-  title: "Anirudh Ravichander - Po Nee Po",
+  name: "Anirudh_Ravichander_-_Surviva.mp3",
+  title: "Anirudh Ravichander - Surviva",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Po_Nee_Po.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Surviva.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Idhazhin_Oram.mp3",
-  title: "Anirudh Ravichander - Idhazhin Oram",
+  name: "Anirudh_Ravichander_-_Vivegam_Theme.mp3",
+  title: "Anirudh Ravichander - Vivegam Theme",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Idhazhin_Oram.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Vivegam_Theme.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Velicha_Poove_Vaa.mp3",
-  title: "Anirudh Ravichander - Velicha Poove Vaa",
+  name: "Anirudh_Ravichander_-_Sodakku.mp3",
+  title: "Anirudh Ravichander - Sodakku",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Velicha_Poove_Vaa.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Sodakku.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Ethir_Neechal.mp3",
-  title: "Anirudh Ravichander - Ethir Neechal",
+  name: "Anirudh_Ravichander_-_Gaali_Vaaluga.mp3",
+  title: "Anirudh Ravichander - Gaali Vaaluga",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Ethir_Neechal.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Gaali_Vaaluga.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Vanakkam_Chennai.mp3",
-  title: "Anirudh Ravichander - Vanakkam Chennai",
+  name: "Anirudh_Ravichander_-_Kutti_Story.mp3",
+  title: "Anirudh Ravichander - Kutti Story",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Vanakkam_Chennai.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Kutti_Story.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Oh_Penne.mp3",
-  title: "Anirudh Ravichander - Oh Penne",
+  name: "Anirudh_Ravichander_-_Vaathi_Coming.mp3",
+  title: "Anirudh Ravichander - Vaathi Coming",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Oh_Penne.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Vaathi_Coming.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Selfie_Pulla.mp3",
-  title: "Anirudh Ravichander - Selfie Pulla",
+  name: "Anirudh_Ravichander_-_Master_the_Blaster.mp3",
+  title: "Anirudh Ravichander - Master the Blaster",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Selfie_Pulla.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Master_the_Blaster.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Aaluma_Doluma.mp3",
-  title: "Anirudh Ravichander - Aaluma Doluma",
+  name: "Anirudh_Ravichander_-_Chellamma.mp3",
+  title: "Anirudh Ravichander - Chellamma",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Aaluma_Doluma.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Chellamma.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Thangamey.mp3",
-  title: "Anirudh Ravichander - Thangamey",
+  name: "Anirudh_Ravichander_-_Arabic_Kuthu_(Halamithi_Habibo).mp3",
+  title: "Anirudh Ravichander - Arabic Kuthu (Halamithi Habibo)",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Thangamey.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Arabic_Kuthu_(Halamithi_Habibo).jpg"
 }
 ];
