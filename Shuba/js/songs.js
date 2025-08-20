@@ -1,62 +1,68 @@
 const songs = [
 {
-  name: "Anirudh_Ravichander_-_Azhage_Azhage.mp3",
-  title: "Anirudh Ravichander - Azhage Azhage",
+  name: "Anirudh_Ravichander_-_Jolly_O_Gymkhana.mp3",
+  title: "Anirudh Ravichander - Jolly O Gymkhana",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Azhage_Azhage.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Jolly_O_Gymkhana.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Surviva.mp3",
-  title: "Anirudh Ravichander - Surviva",
+  name: "Anirudh_Ravichander_-_Beast_Mode.mp3",
+  title: "Anirudh Ravichander - Beast Mode",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Surviva.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Beast_Mode.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Vivegam_Theme.mp3",
-  title: "Anirudh Ravichander - Vivegam Theme",
+  name: "Anirudh_Ravichander_-_Ranjithame.mp3",
+  title: "Anirudh Ravichander - Ranjithame",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Vivegam_Theme.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Ranjithame.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Sodakku.mp3",
-  title: "Anirudh Ravichander - Sodakku",
+  name: "Anirudh_Ravichander_-_Jimikki_Ponnu.mp3",
+  title: "Anirudh Ravichander - Jimikki Ponnu",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Sodakku.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Jimikki_Ponnu.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Gaali_Vaaluga.mp3",
-  title: "Anirudh Ravichander - Gaali Vaaluga",
+  name: "Anirudh_Ravichander_-_Badass.mp3",
+  title: "Anirudh Ravichander - Badass",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Gaali_Vaaluga.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Badass.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Kutti_Story.mp3",
-  title: "Anirudh Ravichander - Kutti Story",
+  name: "Anirudh_Ravichander_-_Ordinary_Person.mp3",
+  title: "Anirudh Ravichander - Ordinary Person",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Kutti_Story.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Ordinary_Person.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Vaathi_Coming.mp3",
-  title: "Anirudh Ravichander - Vaathi Coming",
+  name: "Anirudh_Ravichander_-_So_Baby.mp3",
+  title: "Anirudh Ravichander - So Baby",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Vaathi_Coming.jpg"
+  cover: "covers/Anirudh_Ravichander_-_So_Baby.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Master_the_Blaster.mp3",
-  title: "Anirudh Ravichander - Master the Blaster",
+  name: "Anirudh_Ravichander_-_Pathala_Pathala.mp3",
+  title: "Anirudh Ravichander - Pathala Pathala",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Master_the_Blaster.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Pathala_Pathala.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Chellamma.mp3",
-  title: "Anirudh Ravichander - Chellamma",
+  name: "Anirudh_Ravichander_-_Vaa_Vaathi.mp3",
+  title: "Anirudh Ravichander - Vaa Vaathi",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Chellamma.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Vaa_Vaathi.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Arabic_Kuthu_(Halamithi_Habibo).mp3",
-  title: "Anirudh Ravichander - Arabic Kuthu (Halamithi Habibo)",
+  name: "Anirudh_Ravichander_-_Chaleya.mp3",
+  title: "Anirudh Ravichander - Chaleya",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Arabic_Kuthu_(Halamithi_Habibo).jpg"
+  cover: "covers/Anirudh_Ravichander_-_Chaleya.jpg"
+},
+{
+  name: "Anirudh_Ravichander_-_Hayyoda.mp3",
+  title: "Anirudh Ravichander - Hayyoda",
+  artist: "Artist: Unknown",
+  cover: "covers/Anirudh_Ravichander_-_Hayyoda.jpg"
 }
 ];
