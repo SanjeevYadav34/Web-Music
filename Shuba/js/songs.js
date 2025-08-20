@@ -1,68 +1,62 @@
 const songs = [
 {
-  name: "Anirudh_Ravichander_-_Jolly_O_Gymkhana.mp3",
-  title: "Anirudh Ravichander - Jolly O Gymkhana",
+  name: "Anirudh_Ravichander_-_Come_On_Girls_–_The_Celebration_of_Love.mp3",
+  title: "Anirudh Ravichander - Come On Girls – The Celebration of Love",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Jolly_O_Gymkhana.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Come_On_Girls_–_The_Celebration_of_Love.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Beast_Mode.mp3",
-  title: "Anirudh Ravichander - Beast Mode",
+  name: "Anirudh_Ravichander_-_Kanave_Kanave.mp3",
+  title: "Anirudh Ravichander - Kanave Kanave",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Beast_Mode.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Kanave_Kanave.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Ranjithame.mp3",
-  title: "Anirudh Ravichander - Ranjithame",
+  name: "Anirudh_Ravichander_-_Chennai_City_Gangsta.mp3",
+  title: "Anirudh Ravichander - Chennai City Gangsta",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Ranjithame.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Chennai_City_Gangsta.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Jimikki_Ponnu.mp3",
-  title: "Anirudh Ravichander - Jimikki Ponnu",
+  name: "Anirudh_Ravichander_-_Ailasa_Aile_Ailasa.mp3",
+  title: "Anirudh Ravichander - Ailasa Aile Ailasa",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Jimikki_Ponnu.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Ailasa_Aile_Ailasa.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Badass.mp3",
-  title: "Anirudh Ravichander - Badass",
+  name: "Anirudh_Ravichander_-_What_a_Karuvaad.mp3",
+  title: "Anirudh Ravichander - What a Karuvaad",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Badass.jpg"
+  cover: "covers/Anirudh_Ravichander_-_What_a_Karuvaad.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Ordinary_Person.mp3",
-  title: "Anirudh Ravichander - Ordinary Person",
+  name: "Anirudh_Ravichander_-_Pakkam_Vanthu.mp3",
+  title: "Anirudh Ravichander - Pakkam Vanthu",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Ordinary_Person.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Pakkam_Vanthu.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_So_Baby.mp3",
-  title: "Anirudh Ravichander - So Baby",
+  name: "Anirudh_Ravichander_-_Aathi_Ena_Nee.mp3",
+  title: "Anirudh Ravichander - Aathi Ena Nee",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_So_Baby.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Aathi_Ena_Nee.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Pathala_Pathala.mp3",
-  title: "Anirudh Ravichander - Pathala Pathala",
+  name: "Anirudh_Ravichander_-_Kadhal_Kan_Kattudhe.mp3",
+  title: "Anirudh Ravichander - Kadhal Kan Kattudhe",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Pathala_Pathala.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Kadhal_Kan_Kattudhe.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Vaa_Vaathi.mp3",
-  title: "Anirudh Ravichander - Vaa Vaathi",
+  name: "Anirudh_Ravichander_-_I’m_So_Cool.mp3",
+  title: "Anirudh Ravichander - I’m So Cool",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Vaa_Vaathi.jpg"
+  cover: "covers/Anirudh_Ravichander_-_I’m_So_Cool.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Chaleya.mp3",
-  title: "Anirudh Ravichander - Chaleya",
+  name: "Anirudh_Ravichander_-_Shake_That.mp3",
+  title: "Anirudh Ravichander - Shake That",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Chaleya.jpg"
-},
-{
-  name: "Anirudh_Ravichander_-_Hayyoda.mp3",
-  title: "Anirudh Ravichander - Hayyoda",
-  artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Hayyoda.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Shake_That.jpg"
 }
 ];
