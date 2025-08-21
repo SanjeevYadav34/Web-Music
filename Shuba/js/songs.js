@@ -1,122 +1,122 @@
 const songs = [
 {
-  name: "Anirudh_Ravichander_-_Pudhusaattam.mp3",
-  title: "Anirudh Ravichander - Pudhusaattam",
+  name: "Anirudh_Ravichander_-_Two_Two_Two.mp3",
+  title: "Anirudh Ravichander - Two Two Two",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Pudhusaattam.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Two_Two_Two.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Kanne_Kanne.mp3",
-  title: "Anirudh Ravichander - Kanne Kanne",
+  name: "Anirudh_Ravichander_-_Jalabulajangu.mp3",
+  title: "Anirudh Ravichander - Jalabulajangu",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Kanne_Kanne.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Jalabulajangu.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Kadhal_Psycho.mp3",
-  title: "Anirudh Ravichander - Kadhal Psycho",
+  name: "Anirudh_Ravichander_-_Once_Upon_A_Time.mp3",
+  title: "Anirudh Ravichander - Once Upon A Time",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Kadhal_Psycho.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Once_Upon_A_Time.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Sandakari_Neethan.mp3",
-  title: "Anirudh Ravichander - Sandakari Neethan",
+  name: "Anirudh_Ravichander_-_Porkanda_Singam.mp3",
+  title: "Anirudh Ravichander - Porkanda Singam",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Sandakari_Neethan.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Porkanda_Singam.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Thiruvizha.mp3",
-  title: "Anirudh Ravichander - Thiruvizha",
+  name: "Anirudh_Ravichander_-_Vikram_Title_Song.mp3",
+  title: "Anirudh Ravichander - Vikram Title Song",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Thiruvizha.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Vikram_Title_Song.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_I_Want_A_Girl.mp3",
-  title: "Anirudh Ravichander - I Want A Girl",
+  name: "Anirudh_Ravichander_-_Wasted.mp3",
+  title: "Anirudh Ravichander - Wasted",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_I_Want_A_Girl.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Wasted.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Chumma_Kizhi.mp3",
-  title: "Anirudh Ravichander - Chumma Kizhi",
+  name: "Anirudh_Ravichander_-_Hukum_–_Thalaivar_Alappara.mp3",
+  title: "Anirudh Ravichander - Hukum – Thalaivar Alappara",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Chumma_Kizhi.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Hukum_–_Thalaivar_Alappara.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Thani_Vazhi.mp3",
-  title: "Anirudh Ravichander - Thani Vazhi",
+  name: "Anirudh_Ravichander_-_Anbenum.mp3",
+  title: "Anirudh Ravichander - Anbenum",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Thani_Vazhi.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Anbenum.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Tharam_Maara.mp3",
-  title: "Anirudh Ravichander - Tharam Maara",
+  name: "Anirudh_Ravichander_-_Badass.mp3",
+  title: "Anirudh Ravichander - Badass",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Tharam_Maara.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Badass.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Yelo_Pullelo.mp3",
-  title: "Anirudh Ravichander - Yelo Pullelo",
+  name: "Anirudh_Ravichander_-_Bloody_Sweet.mp3",
+  title: "Anirudh Ravichander - Bloody Sweet",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Yelo_Pullelo.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Bloody_Sweet.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Dharala_Prabhu_(Title_Track).mp3",
-  title: "Anirudh Ravichander - Dharala Prabhu (Title Track)",
+  name: "Anirudh_Ravichander_-_I’m_Scared.mp3",
+  title: "Anirudh Ravichander - I’m Scared",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Dharala_Prabhu_(Title_Track).jpg"
+  cover: "covers/Anirudh_Ravichander_-_I’m_Scared.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Vaathi_Raid.mp3",
-  title: "Anirudh Ravichander - Vaathi Raid",
+  name: "Anirudh_Ravichander_-_Lokiverse_2.0.mp3",
+  title: "Anirudh Ravichander - Lokiverse 2.0",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Vaathi_Raid.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Lokiverse_2.0.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Tamizhan_Endru_Sollada.mp3",
-  title: "Anirudh Ravichander - Tamizhan Endru Sollada",
+  name: "Anirudh_Ravichander_-_Villain_Yaaru.mp3",
+  title: "Anirudh Ravichander - Villain Yaaru",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Tamizhan_Endru_Sollada.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Villain_Yaaru.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Chellamma.mp3",
-  title: "Anirudh Ravichander - Chellamma",
+  name: "Anirudh_Ravichander_-_Come_Back_Indian.mp3",
+  title: "Anirudh Ravichander - Come Back Indian",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Chellamma.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Come_Back_Indian.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Nenjame_Nenjame.mp3",
-  title: "Anirudh Ravichander - Nenjame Nenjame",
+  name: "Anirudh_Ravichander_-_Kadharalz.mp3",
+  title: "Anirudh Ravichander - Kadharalz",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Nenjame_Nenjame.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Kadharalz.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_So_Baby.mp3",
-  title: "Anirudh Ravichander - So Baby",
+  name: "Anirudh_Ravichander_-_Paaraa.mp3",
+  title: "Anirudh Ravichander - Paaraa",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_So_Baby.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Paaraa.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Beast_Mode.mp3",
-  title: "Anirudh Ravichander - Beast Mode",
+  name: "Anirudh_Ravichander_-_Fear_Song.mp3",
+  title: "Anirudh Ravichander - Fear Song",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Beast_Mode.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Fear_Song.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Dippam_Dappam.mp3",
-  title: "Anirudh Ravichander - Dippam Dappam",
+  name: "Anirudh_Ravichander_-_Manasilaayo.mp3",
+  title: "Anirudh Ravichander - Manasilaayo",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Dippam_Dappam.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Manasilaayo.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Kanne_Kanmaniyae.mp3",
-  title: "Anirudh Ravichander - Kanne Kanmaniyae",
+  name: "Anirudh_Ravichander_-_Chuttamalle.mp3",
+  title: "Anirudh Ravichander - Chuttamalle",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Kanne_Kanmaniyae.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Chuttamalle.jpg"
 },
 {
-  name: "Anirudh_Ravichander_-_Rendu_Kaadhal.mp3",
-  title: "Anirudh Ravichander - Rendu Kaadhal",
+  name: "Anirudh_Ravichander_-_Kaavaalaa.mp3",
+  title: "Anirudh Ravichander - Kaavaalaa",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Rendu_Kaadhal.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Kaavaalaa.jpg"
 }
 ];
