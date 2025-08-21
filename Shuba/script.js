@@ -187,7 +187,7 @@ const songs = [
   name: "Anirudh_Ravichander_-_Chaleya.mp3",
   title: "Anirudh Ravichander - Chaleya",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Chaleya.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Chaleya.webp"
 },
 {
   name: "Anirudh_Ravichander_-_Hayyoda.mp3",
@@ -475,7 +475,7 @@ const songs = [
   name: "Anirudh_Ravichander_-_Petta_Paraak.mp3",
   title: "Anirudh Ravichander - Petta Paraak",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Petta_Paraak.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Petta_Paraak.webp"
 },
 {
   name: "Anirudh_Ravichander_-_Kannamma.mp3",
@@ -643,7 +643,7 @@ const songs = [
   name: "Anirudh_Ravichander_-_Vikram_Title_Song.mp3",
   title: "Anirudh Ravichander - Vikram Title Song",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Vikram_Title_Song.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Vikram_Title_Song.webp"
 },
 {
   name: "Anirudh_Ravichander_-_Wasted.mp3",
@@ -709,7 +709,7 @@ const songs = [
   name: "Anirudh_Ravichander_-_Paaraa.mp3",
   title: "Anirudh Ravichander - Paaraa",
   artist: "Artist: Unknown",
-  cover: "covers/Anirudh_Ravichander_-_Paaraa.jpg"
+  cover: "covers/Anirudh_Ravichander_-_Paaraa.webp"
 },
 {
   name: "Anirudh_Ravichander_-_Fear_Song.mp3",
