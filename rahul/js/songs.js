@@ -1,122 +1,122 @@
 const songs = [
 {
-  name: "O_Makhna_Ve_-_Taarzan_The_Wonder_Car_(2004)_StarGOLDHD_HDTV_1080p.mp3",
-  title: "O Makhna Ve - Taarzan The Wonder Car (2004) StarGOLDHD HDTV 1080p",
+  name: "Kinna_Sona_|_Bhaag_Johnny_|_Kunal_Khemu,_Zoa_Morani_|_Sunil_Kamath.mp3",
+  title: "Kinna Sona | Bhaag Johnny | Kunal Khemu, Zoa Morani | Sunil Kamath",
   artist: "Artist: Unknown",
-  cover: "covers/O_Makhna_Ve_-_Taarzan_The_Wonder_Car_(2004)_StarGOLDHD_HDTV_1080p.jpg"
+  cover: "covers/Kinna_Sona_|_Bhaag_Johnny_|_Kunal_Khemu,_Zoa_Morani_|_Sunil_Kamath.jpg"
 },
 {
-  name: "Kabhi_Aar_Kabhi_Paar_-_Remix_|_Full_Video_Song_|_Sona_Mahapatra_|_Majrooh.mp3",
-  title: "Kabhi Aar Kabhi Paar - Remix | Full Video Song | Sona Mahapatra | Majrooh",
+  name: "Guzarish_-_Trending_Version_|_Aamir_Khan_|_Asin_|_Ghajini_|_A.R._Rahman_|_Javed_Ali,_Sonu_Nigam.mp3",
+  title: "Guzarish - Trending Version | Aamir Khan | Asin | Ghajini | A.R. Rahman | Javed Ali, Sonu Nigam",
   artist: "Artist: Unknown",
-  cover: "covers/Kabhi_Aar_Kabhi_Paar_-_Remix_|_Full_Video_Song_|_Sona_Mahapatra_|_Majrooh.jpg"
+  cover: "covers/Guzarish_-_Trending_Version_|_Aamir_Khan_|_Asin_|_Ghajini_|_A.R._Rahman_|_Javed_Ali,_Sonu_Nigam.jpg"
 },
 {
-  name: "Dekhta_Hai_Tu_Kya_(Full_Song)_Film_-_Krazzy-4.mp3",
-  title: "Dekhta Hai Tu Kya (Full Song) Film - Krazzy-4",
+  name: "Emraan_Hashmi_-_Woh_Lamhe_Woh_Baatein_|_Zeher_|_Atif_Aslam.mp3",
+  title: "Emraan Hashmi - Woh Lamhe Woh Baatein | Zeher | Atif Aslam",
   artist: "Artist: Unknown",
-  cover: "covers/Dekhta_Hai_Tu_Kya_(Full_Song)_Film_-_Krazzy-4.jpg"
+  cover: "covers/Emraan_Hashmi_-_Woh_Lamhe_Woh_Baatein_|_Zeher_|_Atif_Aslam.jpg"
 },
 {
-  name: "Gazab_(Video_Song)_|_Aa_Dekhen_Zara_|_Bipasha_Basu_&_Neil_Nitin_Mukesh_|_Pritam.mp3",
-  title: "Gazab (Video Song) | Aa Dekhen Zara | Bipasha Basu & Neil Nitin Mukesh | Pritam",
+  name: "Cham_Cham_Karta_|_Ajay_Atul_|_Vaishali_Samant_|_Sonali_Bendre.mp3",
+  title: "Cham Cham Karta | Ajay Atul | Vaishali Samant | Sonali Bendre",
   artist: "Artist: Unknown",
-  cover: "covers/Gazab_(Video_Song)_|_Aa_Dekhen_Zara_|_Bipasha_Basu_&_Neil_Nitin_Mukesh_|_Pritam.jpg"
+  cover: "covers/Cham_Cham_Karta_|_Ajay_Atul_|_Vaishali_Samant_|_Sonali_Bendre.jpg"
 },
 {
-  name: "Harry_Anand_-_Kaliyon_Ka_Chaman_(Official_Video).mp3",
-  title: "Harry Anand - Kaliyon Ka Chaman (Official Video)",
+  name: "Ye_Go_Ye_Ye_Maina_|_Jatra_|_Ajay-Atul_|_Ankush_Chaudhari,_Bharat_Jadhav_(Marathi).mp3",
+  title: "Ye Go Ye Ye Maina | Jatra | Ajay-Atul | Ankush Chaudhari, Bharat Jadhav (Marathi)",
   artist: "Artist: Unknown",
-  cover: "covers/Harry_Anand_-_Kaliyon_Ka_Chaman_(Official_Video).jpg"
+  cover: "covers/Ye_Go_Ye_Ye_Maina_|_Jatra_|_Ajay-Atul_|_Ankush_Chaudhari,_Bharat_Jadhav_(Marathi).jpg"
 },
 {
-  name: "Lagan_Lagi_Lyrical_Video_|_Tere_Naam_|_Sukhwinder_Singh_|_Salman_Khan,_Bhoomika_Chawla.mp3",
-  title: "Lagan Lagi Lyrical Video | Tere Naam | Sukhwinder Singh | Salman Khan, Bhoomika Chawla",
+  name: "Ishq_Sufiyana_|_The_Dirty_Picture_|_Emraan_Hashmi,_Vidya_Balan_|_Vishal_-_Shekhar.mp3",
+  title: "Ishq Sufiyana | The Dirty Picture | Emraan Hashmi, Vidya Balan | Vishal - Shekhar",
   artist: "Artist: Unknown",
-  cover: "covers/Lagan_Lagi_Lyrical_Video_|_Tere_Naam_|_Sukhwinder_Singh_|_Salman_Khan,_Bhoomika_Chawla.jpg"
+  cover: "covers/Ishq_Sufiyana_|_The_Dirty_Picture_|_Emraan_Hashmi,_Vidya_Balan_|_Vishal_-_Shekhar.jpg"
 },
 {
-  name: "Namak_(Lyrical_Full_Song)_|_Omkara_|_Bipasha_Basu_&_Saif_Ali_Khan.mp3",
-  title: "Namak (Lyrical Full Song) | Omkara | Bipasha Basu & Saif Ali Khan",
+  name: "Kamli_Song_|_Dhoom_3_|_Katrina_Kaif,_Aamir_Khan_|_Sunidhi_Chauhan_|_Pritam.mp3",
+  title: "Kamli Song | Dhoom 3 | Katrina Kaif, Aamir Khan | Sunidhi Chauhan | Pritam",
   artist: "Artist: Unknown",
-  cover: "covers/Namak_(Lyrical_Full_Song)_|_Omkara_|_Bipasha_Basu_&_Saif_Ali_Khan.jpg"
+  cover: "covers/Kamli_Song_|_Dhoom_3_|_Katrina_Kaif,_Aamir_Khan_|_Sunidhi_Chauhan_|_Pritam.jpg"
 },
 {
-  name: "Dhat_Teri_Ki_Full_Video_-_Gori_Tere_Pyaar_Mein_|_Imran_Khan,_Esha_Gupta_|_Aditi_Singh_Sharma.mp3",
-  title: "Dhat Teri Ki Full Video - Gori Tere Pyaar Mein | Imran Khan, Esha Gupta | Aditi Singh Sharma",
+  name: "Dil_Tera_De_De_Mujhe_Mera_Dadla_|_Vaishali_Samant.mp3",
+  title: "Dil Tera De De Mujhe Mera Dadla | Vaishali Samant",
   artist: "Artist: Unknown",
-  cover: "covers/Dhat_Teri_Ki_Full_Video_-_Gori_Tere_Pyaar_Mein_|_Imran_Khan,_Esha_Gupta_|_Aditi_Singh_Sharma.jpg"
+  cover: "covers/Dil_Tera_De_De_Mujhe_Mera_Dadla_|_Vaishali_Samant.jpg"
 },
 {
-  name: "Mere_Naseeb_Mein_(Remix)_-_Baby_H_|_Prem_&_Hardeep_|_Megha_Chatterji.mp3",
-  title: "Mere Naseeb Mein (Remix) - Baby H | Prem & Hardeep | Megha Chatterji",
+  name: "Dil_To_Bachcha_Hai.mp3",
+  title: "Dil To Bachcha Hai",
   artist: "Artist: Unknown",
-  cover: "covers/Mere_Naseeb_Mein_(Remix)_-_Baby_H_|_Prem_&_Hardeep_|_Megha_Chatterji.jpg"
+  cover: "covers/Dil_To_Bachcha_Hai.jpg"
 },
 {
-  name: "Piya_Aaye_Na_|_Aashiqui_2_Full_Song_|_Aditya_Roy_Kapur,_Shraddha_Kapoor.mp3",
-  title: "Piya Aaye Na | Aashiqui 2 Full Song | Aditya Roy Kapur, Shraddha Kapoor",
+  name: "Prateek_Kuhad_-_Co2_(Official_Audio).mp3",
+  title: "Prateek Kuhad - Co2 (Official Audio)",
   artist: "Artist: Unknown",
-  cover: "covers/Piya_Aaye_Na_|_Aashiqui_2_Full_Song_|_Aditya_Roy_Kapur,_Shraddha_Kapoor.jpg"
+  cover: "covers/Prateek_Kuhad_-_Co2_(Official_Audio).jpg"
 },
 {
-  name: "Malang_Song_|_Dhoom_3_|_Aamir_Khan,_Katrina_Kaif_|_Siddharth_Mahadevan,_Shilpa_Rao_|_Pritam,_Sameer.mp3",
-  title: "Malang Song | Dhoom 3 | Aamir Khan, Katrina Kaif | Siddharth Mahadevan, Shilpa Rao | Pritam, Sameer",
+  name: "Aa_Zara_|_Murder_2_|_Emraan_Hashmi,_Jacqueline_Fernandez.mp3",
+  title: "Aa Zara | Murder 2 | Emraan Hashmi, Jacqueline Fernandez",
   artist: "Artist: Unknown",
-  cover: "covers/Malang_Song_|_Dhoom_3_|_Aamir_Khan,_Katrina_Kaif_|_Siddharth_Mahadevan,_Shilpa_Rao_|_Pritam,_Sameer.jpg"
+  cover: "covers/Aa_Zara_|_Murder_2_|_Emraan_Hashmi,_Jacqueline_Fernandez.jpg"
 },
 {
-  name: "Maula_Mere_Maula_|_Anwar_(2007)_|_Siddharth_Koirala_|_Nauheed_Cyrusi.mp3",
-  title: "Maula Mere Maula | Anwar (2007) | Siddharth Koirala | Nauheed Cyrusi",
+  name: "Rooh_|_Tere_Bina_Jeena_Saza_Ho_Gaya_|_Tej_Gill_|_Moviebox.mp3",
+  title: "Rooh | Tere Bina Jeena Saza Ho Gaya | Tej Gill | Moviebox",
   artist: "Artist: Unknown",
-  cover: "covers/Maula_Mere_Maula_|_Anwar_(2007)_|_Siddharth_Koirala_|_Nauheed_Cyrusi.jpg"
+  cover: "covers/Rooh_|_Tere_Bina_Jeena_Saza_Ho_Gaya_|_Tej_Gill_|_Moviebox.jpg"
 },
 {
-  name: "Crazy_Kiya_Re_|_Dhoom_2_|_Aishwarya_Rai,_Hrithik_Roshan,_Sunidhi_Chauhan_|_Pritam,_Sameer.mp3",
-  title: "Crazy Kiya Re | Dhoom 2 | Aishwarya Rai, Hrithik Roshan, Sunidhi Chauhan | Pritam, Sameer",
+  name: "Dil_Maaza_Wonly_Tula_(Marathi).mp3",
+  title: "Dil Maaza Wonly Tula (Marathi)",
   artist: "Artist: Unknown",
-  cover: "covers/Crazy_Kiya_Re_|_Dhoom_2_|_Aishwarya_Rai,_Hrithik_Roshan,_Sunidhi_Chauhan_|_Pritam,_Sameer.jpg"
+  cover: "covers/Dil_Maaza_Wonly_Tula_(Marathi).jpg"
 },
 {
-  name: "Tu_Isaq_Mera_|_Hate_Story_2015_|_Daisy_Shah,_Karan_Singh_Grover_|_Neha_Kakkar.mp3",
-  title: "Tu Isaq Mera | Hate Story 2015 | Daisy Shah, Karan Singh Grover | Neha Kakkar",
+  name: "Kuch_Khaas_|_Fashion_|_Priyanka_Chopra,_Kangna_Ranawat_|_Mohit_Chauhan,_Neha_Bhasin.mp3",
+  title: "Kuch Khaas | Fashion | Priyanka Chopra, Kangna Ranawat | Mohit Chauhan, Neha Bhasin",
   artist: "Artist: Unknown",
-  cover: "covers/Tu_Isaq_Mera_|_Hate_Story_2015_|_Daisy_Shah,_Karan_Singh_Grover_|_Neha_Kakkar.jpg"
+  cover: "covers/Kuch_Khaas_|_Fashion_|_Priyanka_Chopra,_Kangna_Ranawat_|_Mohit_Chauhan,_Neha_Bhasin.jpg"
 },
 {
-  name: "Ye_Naa_Gade_|_Hunterrr_|_Gulshan_Devaiah,_Radhika_Apte_&_Sai_Tamhankar.mp3",
-  title: "Ye Naa Gade | Hunterrr | Gulshan Devaiah, Radhika Apte & Sai Tamhankar",
+  name: "Sad_Girls_Love_Money_(Remix)_|_TikTok_Version.mp3",
+  title: "Sad Girls Love Money (Remix) | TikTok Version",
   artist: "Artist: Unknown",
-  cover: "covers/Ye_Naa_Gade_|_Hunterrr_|_Gulshan_Devaiah,_Radhika_Apte_&_Sai_Tamhankar.jpg"
+  cover: "covers/Sad_Girls_Love_Money_(Remix)_|_TikTok_Version.jpg"
 },
 {
-  name: "Kaanta_Laga_Baby_Doll_2002.mp3",
-  title: "Kaanta Laga Baby Doll 2002",
+  name: "Doja_Cat_-_Woman_(Official_Video).mp3",
+  title: "Doja Cat - Woman (Official Video)",
   artist: "Artist: Unknown",
-  cover: "covers/Kaanta_Laga_Baby_Doll_2002.jpg"
+  cover: "covers/Doja_Cat_-_Woman_(Official_Video).jpg"
 },
 {
-  name: "Daru_Desi_|_Cocktail_|_Saif_Ali_Khan,_Deepika_Padukone_&_Diana_Penty_|_Pritam.mp3",
-  title: "Daru Desi | Cocktail | Saif Ali Khan, Deepika Padukone & Diana Penty | Pritam",
+  name: "Melanie_Martinez_-_Play_Date_[Official_Lyric_Video].mp3",
+  title: "Melanie Martinez - Play Date [Official Lyric Video]",
   artist: "Artist: Unknown",
-  cover: "covers/Daru_Desi_|_Cocktail_|_Saif_Ali_Khan,_Deepika_Padukone_&_Diana_Penty_|_Pritam.jpg"
+  cover: "covers/Melanie_Martinez_-_Play_Date_[Official_Lyric_Video].jpg"
 },
 {
-  name: "Dhan_Te_Nan_|_Kaminey_|_Shahid_Kapoor,_Priyanka_Chopra_|_Vishal_Bharadwaj.mp3",
-  title: "Dhan Te Nan | Kaminey | Shahid Kapoor, Priyanka Chopra | Vishal Bharadwaj",
+  name: "Glass_Animals_-_Heat_Waves_(Official_Video).mp3",
+  title: "Glass Animals - Heat Waves (Official Video)",
   artist: "Artist: Unknown",
-  cover: "covers/Dhan_Te_Nan_|_Kaminey_|_Shahid_Kapoor,_Priyanka_Chopra_|_Vishal_Bharadwaj.jpg"
+  cover: "covers/Glass_Animals_-_Heat_Waves_(Official_Video).jpg"
 },
 {
-  name: "Galavar_Khali_Lyrics_Video_|_Swapnil_Bandodkar_|_Ajay_Atul_|_Sagarika_(Marathi).mp3",
-  title: "Galavar Khali Lyrics Video | Swapnil Bandodkar | Ajay Atul | Sagarika (Marathi)",
+  name: "Jaymes_Young_-_Infinity_[Official_Audio].mp3",
+  title: "Jaymes Young - Infinity [Official Audio]",
   artist: "Artist: Unknown",
-  cover: "covers/Galavar_Khali_Lyrics_Video_|_Swapnil_Bandodkar_|_Ajay_Atul_|_Sagarika_(Marathi).jpg"
+  cover: "covers/Jaymes_Young_-_Infinity_[Official_Audio].jpg"
 },
 {
-  name: "Manchala_|_Hasee_Toh_Phasee_|_Parineeti_Chopra,_Sidharth_|_Shafqat_Amanat_Ali.mp3",
-  title: "Manchala | Hasee Toh Phasee | Parineeti Chopra, Sidharth | Shafqat Amanat Ali",
+  name: "G-Eazy_&_Halsey_-_Him_&_I_(Lyrics).mp3",
+  title: "G-Eazy & Halsey - Him & I (Lyrics)",
   artist: "Artist: Unknown",
-  cover: "covers/Manchala_|_Hasee_Toh_Phasee_|_Parineeti_Chopra,_Sidharth_|_Shafqat_Amanat_Ali.jpg"
+  cover: "covers/G-Eazy_&_Halsey_-_Him_&_I_(Lyrics).jpg"
 }
 ];
