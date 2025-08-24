@@ -1,122 +1,98 @@
 const songs = [
 {
-  name: "Sajde_(From_Lost;Found).mp3",
-  title: "Sajde (From Lost",
+  name: "Vaaroon.mp3",
+  title: "Vaaroon",
   artist: "Artist: Unknown",
-  cover: "covers/Sajde_(From_Lost;Found).jpg"
+  cover: "covers/Vaaroon.jpg"
 },
 {
-  name: "Jeev_Pisatala_-_Partu_|_Saurabh_Gokhale,_Gayatri_Soham.mp3",
-  title: "Jeev Pisatala - Partu | Saurabh Gokhale, Gayatri Soham",
+  name: "Chinnamma_Chilakkamma.mp3",
+  title: "Chinnamma Chilakkamma",
   artist: "Artist: Unknown",
-  cover: "covers/Jeev_Pisatala_-_Partu_|_Saurabh_Gokhale,_Gayatri_Soham.jpg"
+  cover: "covers/Chinnamma_Chilakkamma.jpg"
 },
 {
-  name: "Aatach_Baya_Ka_Baavarla_-_Sairat_|_Ajay_Atul_|_Nagraj_Popatrao_Manjule.mp3",
-  title: "Aatach Baya Ka Baavarla - Sairat | Ajay Atul | Nagraj Popatrao Manjule",
+  name: "Katchi_Sera_-_Sai_Abhyankkar_|_Samyuktha_|_Ken_Royson.mp3",
+  title: "Katchi Sera - Sai Abhyankkar | Samyuktha | Ken Royson",
   artist: "Artist: Unknown",
-  cover: "covers/Aatach_Baya_Ka_Baavarla_-_Sairat_|_Ajay_Atul_|_Nagraj_Popatrao_Manjule.jpg"
+  cover: "covers/Katchi_Sera_-_Sai_Abhyankkar_|_Samyuktha_|_Ken_Royson.jpg"
 },
 {
-  name: "Kaakan_-_Shankar_Mahadevan_|_Jitendra_Joshi,_Urmila_Kothare.mp3",
-  title: "Kaakan - Shankar Mahadevan | Jitendra Joshi, Urmila Kothare",
+  name: "Afghan_Jalebi_(Ya_Baba)_-_Phantom_|_Saif_Ali_Khan,_Katrina_Kaif.mp3",
+  title: "Afghan Jalebi (Ya Baba) - Phantom | Saif Ali Khan, Katrina Kaif",
   artist: "Artist: Unknown",
-  cover: "covers/Kaakan_-_Shankar_Mahadevan_|_Jitendra_Joshi,_Urmila_Kothare.jpg"
+  cover: "covers/Afghan_Jalebi_(Ya_Baba)_-_Phantom_|_Saif_Ali_Khan,_Katrina_Kaif.jpg"
 },
 {
-  name: "Mala_Ved_Laagale_(Duet)_-_Sairat.mp3",
-  title: "Mala Ved Laagale (Duet) - Sairat",
+  name: "Keejo_Kesari_Ke_Laal_-_Jai_Shree_Ram_|_DJ_Karan_Kahar.mp3",
+  title: "Keejo Kesari Ke Laal - Jai Shree Ram | DJ Karan Kahar",
   artist: "Artist: Unknown",
-  cover: "covers/Mala_Ved_Laagale_(Duet)_-_Sairat.jpg"
+  cover: "covers/Keejo_Kesari_Ke_Laal_-_Jai_Shree_Ram_|_DJ_Karan_Kahar.jpg"
 },
 {
-  name: "Pailwaan_Ala_G_Pailwaan_Ala_-_DJ_Kiran_NG_Kolhapur.mp3",
-  title: "Pailwaan Ala G Pailwaan Ala - DJ Kiran NG Kolhapur",
+  name: "Natin_Marli_Mithi_-_DJ_Mix_Song_2025.mp3",
+  title: "Natin Marli Mithi - DJ Mix Song 2025",
   artist: "Artist: Unknown",
-  cover: "covers/Pailwaan_Ala_G_Pailwaan_Ala_-_DJ_Kiran_NG_Kolhapur.jpg"
+  cover: "covers/Natin_Marli_Mithi_-_DJ_Mix_Song_2025.jpg"
 },
 {
-  name: "Gharwani_Vagu_Nako_-_Soundcheck_Mix_(DJ_Song).mp3",
-  title: "Gharwani Vagu Nako - Soundcheck Mix (DJ Song)",
+  name: "Dekh_Tuni_Bayko_-_Ahirani_Song_|_Anjana_Barlekar.mp3",
+  title: "Dekh Tuni Bayko - Ahirani Song | Anjana Barlekar",
   artist: "Artist: Unknown",
-  cover: "covers/Gharwani_Vagu_Nako_-_Soundcheck_Mix_(DJ_Song).jpg"
+  cover: "covers/Dekh_Tuni_Bayko_-_Ahirani_Song_|_Anjana_Barlekar.jpg"
 },
 {
-  name: "Mi_Ekta_Bas_-_Tirth_Shinde_|_DJ_Aniket_&_Nagesh_Soundcheck.mp3",
-  title: "Mi Ekta Bas - Tirth Shinde | DJ Aniket & Nagesh Soundcheck",
+  name: "Zingaat_-_Sairat_|_Ajay_Atul_|_Akash_Thosar,_Rinku_Rajguru.mp3",
+  title: "Zingaat - Sairat | Ajay Atul | Akash Thosar, Rinku Rajguru",
   artist: "Artist: Unknown",
-  cover: "covers/Mi_Ekta_Bas_-_Tirth_Shinde_|_DJ_Aniket_&_Nagesh_Soundcheck.jpg"
+  cover: "covers/Zingaat_-_Sairat_|_Ajay_Atul_|_Akash_Thosar,_Rinku_Rajguru.jpg"
 },
 {
-  name: "Bhalya_Bhalyana_Jaun_Vichar_Fakt_Maz_Nav_-_DJ_Sushant_Soundane.mp3",
-  title: "Bhalya Bhalyana Jaun Vichar Fakt Maz Nav - DJ Sushant Soundane",
+  name: "Mala_Pirtichya_Jhulyat_Jhulwa_-_Lavni_Song.mp3",
+  title: "Mala Pirtichya Jhulyat Jhulwa - Lavni Song",
   artist: "Artist: Unknown",
-  cover: "covers/Bhalya_Bhalyana_Jaun_Vichar_Fakt_Maz_Nav_-_DJ_Sushant_Soundane.jpg"
+  cover: "covers/Mala_Pirtichya_Jhulyat_Jhulwa_-_Lavni_Song.jpg"
 },
 {
-  name: "Turururu_Chalu_Nako.mp3",
-  title: "Turururu Chalu Nako",
+  name: "Patlancha_Bailgada_-_Radha_Khude_|_Swapnil_Gaikwad.mp3",
+  title: "Patlancha Bailgada - Radha Khude | Swapnil Gaikwad",
   artist: "Artist: Unknown",
-  cover: "covers/Turururu_Chalu_Nako.jpg"
+  cover: "covers/Patlancha_Bailgada_-_Radha_Khude_|_Swapnil_Gaikwad.jpg"
 },
 {
-  name: "Aase_Wajwa_Ki_-_Dholki_|_Siddharth_Jadhav,_Manasi_Naik.mp3",
-  title: "Aase Wajwa Ki - Dholki | Siddharth Jadhav, Manasi Naik",
+  name: "Mehbooba_-_Preet_Bandre.mp3",
+  title: "Mehbooba - Preet Bandre",
   artist: "Artist: Unknown",
-  cover: "covers/Aase_Wajwa_Ki_-_Dholki_|_Siddharth_Jadhav,_Manasi_Naik.jpg"
+  cover: "covers/Mehbooba_-_Preet_Bandre.jpg"
 },
 {
-  name: "Sajna_Hai_Mujhe_-_Vaishali_Samant_|_Sagarika_Music.mp3",
-  title: "Sajna Hai Mujhe - Vaishali Samant | Sagarika Music",
+  name: "Aai_Tuza_Dongar_-_Ekveera_Aai_Song_|_Amol_Jadhav.mp3",
+  title: "Aai Tuza Dongar - Ekveera Aai Song | Amol Jadhav",
   artist: "Artist: Unknown",
-  cover: "covers/Sajna_Hai_Mujhe_-_Vaishali_Samant_|_Sagarika_Music.jpg"
+  cover: "covers/Aai_Tuza_Dongar_-_Ekveera_Aai_Song_|_Amol_Jadhav.jpg"
 },
 {
-  name: "Mazya_Dolyatil_Kajal_Express_To_Impress.mp3",
-  title: "Mazya Dolyatil Kajal Express To Impress",
+  name: "Tuzya_Priticha_Vinchu_Chawla_-_Fandry_|_Ajay_Atul.mp3",
+  title: "Tuzya Priticha Vinchu Chawla - Fandry | Ajay Atul",
   artist: "Artist: Unknown",
-  cover: "covers/Mazya_Dolyatil_Kajal_Express_To_Impress.jpg"
+  cover: "covers/Tuzya_Priticha_Vinchu_Chawla_-_Fandry_|_Ajay_Atul.jpg"
 },
 {
-  name: "Gondhal_-_Jaundya_Na_Balasaheb_|_Ajay_Atul.mp3",
-  title: "Gondhal - Jaundya Na Balasaheb | Ajay Atul",
+  name: "Abhang_-_Kanada_Raja_Pandharicha.mp3",
+  title: "Abhang - Kanada Raja Pandharicha",
   artist: "Artist: Unknown",
-  cover: "covers/Gondhal_-_Jaundya_Na_Balasaheb_|_Ajay_Atul.jpg"
+  cover: "covers/Abhang_-_Kanada_Raja_Pandharicha.jpg"
 },
 {
-  name: "Ishakacha_Baan_-_Taleem_|_Ronkini_Gupta,_Swapnil_Godbole.mp3",
-  title: "Ishakacha Baan - Taleem | Ronkini Gupta, Swapnil Godbole",
+  name: "Jagnayache_Deva_-_Swapnil_Bandodkar_|_Dashakriya.mp3",
+  title: "Jagnayache Deva - Swapnil Bandodkar | Dashakriya",
   artist: "Artist: Unknown",
-  cover: "covers/Ishakacha_Baan_-_Taleem_|_Ronkini_Gupta,_Swapnil_Godbole.jpg"
+  cover: "covers/Jagnayache_Deva_-_Swapnil_Bandodkar_|_Dashakriya.jpg"
 },
 {
-  name: "Email_Kal_Internet_Var_Kela_-_Morya_|_Lavani_Song.mp3",
-  title: "Email Kal Internet Var Kela - Morya | Lavani Song",
+  name: "Damlelya_Babachi_Kahani.mp3",
+  title: "Damlelya Babachi Kahani",
   artist: "Artist: Unknown",
-  cover: "covers/Email_Kal_Internet_Var_Kela_-_Morya_|_Lavani_Song.jpg"
-},
-{
-  name: "Baya_-_Maska_|_Chinar-Mahesh_|_Prarthana_Behere.mp3",
-  title: "Baya - Maska | Chinar-Mahesh | Prarthana Behere",
-  artist: "Artist: Unknown",
-  cover: "covers/Baya_-_Maska_|_Chinar-Mahesh_|_Prarthana_Behere.jpg"
-},
-{
-  name: "Jailer_-_Hukum_|_Rajinikanth_|_Anirudh_Ravichander.mp3",
-  title: "Jailer - Hukum | Rajinikanth | Anirudh Ravichander",
-  artist: "Artist: Unknown",
-  cover: "covers/Jailer_-_Hukum_|_Rajinikanth_|_Anirudh_Ravichander.jpg"
-},
-{
-  name: "Biba_Sada_(From_Abdullahpur_Ka_Devdas).mp3",
-  title: "Biba Sada (From Abdullahpur",
-  artist: "Artist: Unknown",
-  cover: "covers/Biba_Sada_(From_Abdullahpur_Ka_Devdas).jpg"
-},
-{
-  name: "Paaro.mp3",
-  title: "Paaro",
-  artist: "Artist: Unknown",
-  cover: "covers/Paaro.jpg"
+  cover: "covers/Damlelya_Babachi_Kahani.jpg"
 }
 ];
