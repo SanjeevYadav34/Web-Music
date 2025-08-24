@@ -1,92 +1,122 @@
 const songs = [
 {
-  name: "The_Chainsmokers_-_Closer_(Lyrics)_feat._Halsey.mp3",
-  title: "The Chainsmokers - Closer (Lyrics) feat. Halsey",
+  name: "Sajde_(From_Lost;Found).mp3",
+  title: "Sajde (From Lost",
   artist: "Artist: Unknown",
-  cover: "covers/The_Chainsmokers_-_Closer_(Lyrics)_feat._Halsey.jpg"
+  cover: "covers/Sajde_(From_Lost;Found).jpg"
 },
 {
-  name: "Sevdaliza_-_Alibi_ft._Pabllo_Vittar_&_Yseult_(Official_Music_Video).mp3",
-  title: "Sevdaliza - Alibi ft. Pabllo Vittar & Yseult (Official Music Video)",
+  name: "Jeev_Pisatala_-_Partu_|_Saurabh_Gokhale,_Gayatri_Soham.mp3",
+  title: "Jeev Pisatala - Partu | Saurabh Gokhale, Gayatri Soham",
   artist: "Artist: Unknown",
-  cover: "covers/Sevdaliza_-_Alibi_ft._Pabllo_Vittar_&_Yseult_(Official_Music_Video).jpg"
+  cover: "covers/Jeev_Pisatala_-_Partu_|_Saurabh_Gokhale,_Gayatri_Soham.jpg"
 },
 {
-  name: "Manali_Trance_|_Yo_Yo_Honey_Singh_x_Neha_Kakkar_x_Lisa_Haydon.mp3",
-  title: "Manali Trance | Yo Yo Honey Singh x Neha Kakkar x Lisa Haydon",
+  name: "Aatach_Baya_Ka_Baavarla_-_Sairat_|_Ajay_Atul_|_Nagraj_Popatrao_Manjule.mp3",
+  title: "Aatach Baya Ka Baavarla - Sairat | Ajay Atul | Nagraj Popatrao Manjule",
   artist: "Artist: Unknown",
-  cover: "covers/Manali_Trance_|_Yo_Yo_Honey_Singh_x_Neha_Kakkar_x_Lisa_Haydon.jpg"
+  cover: "covers/Aatach_Baya_Ka_Baavarla_-_Sairat_|_Ajay_Atul_|_Nagraj_Popatrao_Manjule.jpg"
 },
 {
-  name: "Ek_Nazar_Mein_Bhi_|_Taxi_No_9211_|_John_Abraham_|_Sameera_Reddy.mp3",
-  title: "Ek Nazar Mein Bhi | Taxi No 9211 | John Abraham | Sameera Reddy",
+  name: "Kaakan_-_Shankar_Mahadevan_|_Jitendra_Joshi,_Urmila_Kothare.mp3",
+  title: "Kaakan - Shankar Mahadevan | Jitendra Joshi, Urmila Kothare",
   artist: "Artist: Unknown",
-  cover: "covers/Ek_Nazar_Mein_Bhi_|_Taxi_No_9211_|_John_Abraham_|_Sameera_Reddy.jpg"
+  cover: "covers/Kaakan_-_Shankar_Mahadevan_|_Jitendra_Joshi,_Urmila_Kothare.jpg"
 },
 {
-  name: "Gori_Radha_Ne_Kalo_Kaan_|_Wrong_Side_Raju_|_Pratik_Gandhi_|_Kirtidan_Gadhvi.mp3",
-  title: "Gori Radha Ne Kalo Kaan | Wrong Side Raju | Pratik Gandhi | Kirtidan Gadhvi",
+  name: "Mala_Ved_Laagale_(Duet)_-_Sairat.mp3",
+  title: "Mala Ved Laagale (Duet) - Sairat",
   artist: "Artist: Unknown",
-  cover: "covers/Gori_Radha_Ne_Kalo_Kaan_|_Wrong_Side_Raju_|_Pratik_Gandhi_|_Kirtidan_Gadhvi.jpg"
+  cover: "covers/Mala_Ved_Laagale_(Duet)_-_Sairat.jpg"
 },
 {
-  name: "Milaa_Yun_|_Haseen_Dillruba_|_Taapsee_Pannu,_Vikrant_Massey,_Harshvardhan_|_Amit_Trivedi.mp3",
-  title: "Milaa Yun | Haseen Dillruba | Taapsee Pannu, Vikrant Massey, Harshvardhan | Amit Trivedi",
+  name: "Pailwaan_Ala_G_Pailwaan_Ala_-_DJ_Kiran_NG_Kolhapur.mp3",
+  title: "Pailwaan Ala G Pailwaan Ala - DJ Kiran NG Kolhapur",
   artist: "Artist: Unknown",
-  cover: "covers/Milaa_Yun_|_Haseen_Dillruba_|_Taapsee_Pannu,_Vikrant_Massey,_Harshvardhan_|_Amit_Trivedi.jpg"
+  cover: "covers/Pailwaan_Ala_G_Pailwaan_Ala_-_DJ_Kiran_NG_Kolhapur.jpg"
 },
 {
-  name: "Tu_Zaroori_|_Zid_|_Mannara,_Karanvir_|_Sunidhi_Chauhan,_Sharib_Sabri.mp3",
-  title: "Tu Zaroori | Zid | Mannara, Karanvir | Sunidhi Chauhan, Sharib Sabri",
+  name: "Gharwani_Vagu_Nako_-_Soundcheck_Mix_(DJ_Song).mp3",
+  title: "Gharwani Vagu Nako - Soundcheck Mix (DJ Song)",
   artist: "Artist: Unknown",
-  cover: "covers/Tu_Zaroori_|_Zid_|_Mannara,_Karanvir_|_Sunidhi_Chauhan,_Sharib_Sabri.jpg"
+  cover: "covers/Gharwani_Vagu_Nako_-_Soundcheck_Mix_(DJ_Song).jpg"
 },
 {
-  name: "Pehli_Nazar_Mein_|_Atif_Aslam_|_Race_|_Akshaye,_Bipasha,_Saif.mp3",
-  title: "Pehli Nazar Mein | Atif Aslam | Race | Akshaye, Bipasha, Saif",
+  name: "Mi_Ekta_Bas_-_Tirth_Shinde_|_DJ_Aniket_&_Nagesh_Soundcheck.mp3",
+  title: "Mi Ekta Bas - Tirth Shinde | DJ Aniket & Nagesh Soundcheck",
   artist: "Artist: Unknown",
-  cover: "covers/Pehli_Nazar_Mein_|_Atif_Aslam_|_Race_|_Akshaye,_Bipasha,_Saif.jpg"
+  cover: "covers/Mi_Ekta_Bas_-_Tirth_Shinde_|_DJ_Aniket_&_Nagesh_Soundcheck.jpg"
 },
 {
-  name: "Kashyala_Lavato_(Lavani_Song)_|_Poshter_Girl_|_Rasika_|_Amitraj,_Bela_Shende.mp3",
-  title: "Kashyala Lavato (Lavani Song) | Poshter Girl | Rasika | Amitraj, Bela Shende",
+  name: "Bhalya_Bhalyana_Jaun_Vichar_Fakt_Maz_Nav_-_DJ_Sushant_Soundane.mp3",
+  title: "Bhalya Bhalyana Jaun Vichar Fakt Maz Nav - DJ Sushant Soundane",
   artist: "Artist: Unknown",
-  cover: "covers/Kashyala_Lavato_(Lavani_Song)_|_Poshter_Girl_|_Rasika_|_Amitraj,_Bela_Shende.jpg"
+  cover: "covers/Bhalya_Bhalyana_Jaun_Vichar_Fakt_Maz_Nav_-_DJ_Sushant_Soundane.jpg"
 },
 {
-  name: "Mann_Ki_Lagan_|_Rahat_Fateh_Ali_Khan_|_John_Abraham_|_Paap.mp3",
-  title: "Mann Ki Lagan | Rahat Fateh Ali Khan | John Abraham | Paap",
+  name: "Turururu_Chalu_Nako.mp3",
+  title: "Turururu Chalu Nako",
   artist: "Artist: Unknown",
-  cover: "covers/Mann_Ki_Lagan_|_Rahat_Fateh_Ali_Khan_|_John_Abraham_|_Paap.jpg"
+  cover: "covers/Turururu_Chalu_Nako.jpg"
 },
 {
-  name: "Vinchoo_Chawla_|_Shaswati_|_Dance_Song_(Marathi).mp3",
-  title: "Vinchoo Chawla | Shaswati | Dance Song (Marathi)",
+  name: "Aase_Wajwa_Ki_-_Dholki_|_Siddharth_Jadhav,_Manasi_Naik.mp3",
+  title: "Aase Wajwa Ki - Dholki | Siddharth Jadhav, Manasi Naik",
   artist: "Artist: Unknown",
-  cover: "covers/Vinchoo_Chawla_|_Shaswati_|_Dance_Song_(Marathi).jpg"
+  cover: "covers/Aase_Wajwa_Ki_-_Dholki_|_Siddharth_Jadhav,_Manasi_Naik.jpg"
 },
 {
-  name: "Tose_Naina_Lage_|_Anwar_(2007)_|_Siddharth_Koirala_|_Nauheed_Cyrusi.mp3",
-  title: "Tose Naina Lage | Anwar (2007) | Siddharth Koirala | Nauheed Cyrusi",
+  name: "Sajna_Hai_Mujhe_-_Vaishali_Samant_|_Sagarika_Music.mp3",
+  title: "Sajna Hai Mujhe - Vaishali Samant | Sagarika Music",
   artist: "Artist: Unknown",
-  cover: "covers/Tose_Naina_Lage_|_Anwar_(2007)_|_Siddharth_Koirala_|_Nauheed_Cyrusi.jpg"
+  cover: "covers/Sajna_Hai_Mujhe_-_Vaishali_Samant_|_Sagarika_Music.jpg"
 },
 {
-  name: "Natarang_Ubha_(Marathi).mp3",
-  title: "Natarang Ubha (Marathi)",
+  name: "Mazya_Dolyatil_Kajal_Express_To_Impress.mp3",
+  title: "Mazya Dolyatil Kajal Express To Impress",
   artist: "Artist: Unknown",
-  cover: "covers/Natarang_Ubha_(Marathi).jpg"
+  cover: "covers/Mazya_Dolyatil_Kajal_Express_To_Impress.jpg"
 },
 {
-  name: "He_Assa_Pahila_|_Kesari_(Saffron)_|_Virat_Madake_&_Rupa_Borgaonkar.mp3",
-  title: "He Assa Pahila | Kesari (Saffron) | Virat Madake & Rupa Borgaonkar",
+  name: "Gondhal_-_Jaundya_Na_Balasaheb_|_Ajay_Atul.mp3",
+  title: "Gondhal - Jaundya Na Balasaheb | Ajay Atul",
   artist: "Artist: Unknown",
-  cover: "covers/He_Assa_Pahila_|_Kesari_(Saffron)_|_Virat_Madake_&_Rupa_Borgaonkar.jpg"
+  cover: "covers/Gondhal_-_Jaundya_Na_Balasaheb_|_Ajay_Atul.jpg"
 },
 {
-  name: "I_Wanna_Be_Yours.mp3",
-  title: "I Wanna Be Yours",
+  name: "Ishakacha_Baan_-_Taleem_|_Ronkini_Gupta,_Swapnil_Godbole.mp3",
+  title: "Ishakacha Baan - Taleem | Ronkini Gupta, Swapnil Godbole",
   artist: "Artist: Unknown",
-  cover: "covers/I_Wanna_Be_Yours.jpg"
+  cover: "covers/Ishakacha_Baan_-_Taleem_|_Ronkini_Gupta,_Swapnil_Godbole.jpg"
+},
+{
+  name: "Email_Kal_Internet_Var_Kela_-_Morya_|_Lavani_Song.mp3",
+  title: "Email Kal Internet Var Kela - Morya | Lavani Song",
+  artist: "Artist: Unknown",
+  cover: "covers/Email_Kal_Internet_Var_Kela_-_Morya_|_Lavani_Song.jpg"
+},
+{
+  name: "Baya_-_Maska_|_Chinar-Mahesh_|_Prarthana_Behere.mp3",
+  title: "Baya - Maska | Chinar-Mahesh | Prarthana Behere",
+  artist: "Artist: Unknown",
+  cover: "covers/Baya_-_Maska_|_Chinar-Mahesh_|_Prarthana_Behere.jpg"
+},
+{
+  name: "Jailer_-_Hukum_|_Rajinikanth_|_Anirudh_Ravichander.mp3",
+  title: "Jailer - Hukum | Rajinikanth | Anirudh Ravichander",
+  artist: "Artist: Unknown",
+  cover: "covers/Jailer_-_Hukum_|_Rajinikanth_|_Anirudh_Ravichander.jpg"
+},
+{
+  name: "Biba_Sada_(From_Abdullahpur_Ka_Devdas).mp3",
+  title: "Biba Sada (From Abdullahpur",
+  artist: "Artist: Unknown",
+  cover: "covers/Biba_Sada_(From_Abdullahpur_Ka_Devdas).jpg"
+},
+{
+  name: "Paaro.mp3",
+  title: "Paaro",
+  artist: "Artist: Unknown",
+  cover: "covers/Paaro.jpg"
 }
 ];
