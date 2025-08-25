@@ -9,6 +9,12 @@ const coverImg = document.getElementById("cover");
 const loopBtn = document.getElementById("loop");
 
 const songs = [
+{
+    name: "mera_mann.mp3",
+    title: "Mera Mann",
+    artist: "",
+    cover: "covers/mera_mann.webp"
+  },
   {
     name: "rahul/songs/aisa.mp3",
     title: "AISA  BANNA SAWARNA  ANJUM HUSSAIN  #qawali #trending #sogs #Aisabannasawarna #Sad #hits #song",
