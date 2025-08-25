@@ -10,7 +10,7 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
-    name: "mera_mann.mp3",
+    name: "songs/mera_mann.mp3",
     title: "Mera Mann",
     artist: "",
     cover: "covers/mera_mann.webp"
@@ -82,7 +82,7 @@ const songs = [
     cover: "rahul/covers/tere.jpg"
   },
 {
-  name: "sanso-ki.mp3",
+  name: "songs/sanso-ki.mp3",
   title: "Sanson Ki Mala Pe Nusrat Fateh Ali Khan",
   artist: "Artist: Unknown",
   cover: "covers/sanso-ki.jpg"
