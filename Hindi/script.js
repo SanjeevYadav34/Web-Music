@@ -15,6 +15,12 @@ const songs = [
     artist: "",
     cover: "covers/mera_mann.webp"
   },
+{
+    name: "songs/Naam Chale.mp3",
+    title: "Mera Mann",
+    artist: "Vikram",
+    cover: "covers/Naam Chale.webp"
+  },
   {
     name: "rahul/songs/aisa.mp3",
     title: "AISA  BANNA SAWARNA  ANJUM HUSSAIN  #qawali #trending #sogs #Aisabannasawarna #Sad #hits #song",
