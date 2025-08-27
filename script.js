@@ -22,6 +22,10 @@ const users = {
   Shuba: {
     password: "shuba098",
     redirect: "Shuba/home.html"
+  },
+  Komal: {
+    password: "komal456",
+    redirect: "Komal/index.html"
   }
 };
 
