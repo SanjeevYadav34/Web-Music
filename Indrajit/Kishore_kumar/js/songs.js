@@ -1,50 +1,32 @@
 const songs = [
 {
-  name: "Kishore_Kumar_-_Yeh_Jo_Mohabbat_Hai.mp3",
-  title: "Kishore Kumar - Yeh Jo Mohabbat Hai",
+  name: "Kishore_Kumar_-_Mera_Jeevan_Kora_Kagaz.mp3",
+  title: "Kishore Kumar - Mera Jeevan Kora Kagaz",
   artist: "Artist: Unknown",
-  cover: "covers/Kishore_Kumar_-_Yeh_Jo_Mohabbat_Hai.jpg"
+  cover: "covers/Kishore_Kumar_-_Mera_Jeevan_Kora_Kagaz.jpg"
 },
 {
-  name: "Kishore_Kumar_-_Ek_Ladki_Bheegi_Bhagi_Si.mp3",
-  title: "Kishore Kumar - Ek Ladki Bheegi Bhagi Si",
+  name: "Kishore_Kumar_-_Phoolon_Ke_Rang_Se.mp3",
+  title: "Kishore Kumar - Phoolon Ke Rang Se",
   artist: "Artist: Unknown",
-  cover: "covers/Kishore_Kumar_-_Ek_Ladki_Bheegi_Bhagi_Si.jpg"
+  cover: "covers/Kishore_Kumar_-_Phoolon_Ke_Rang_Se.jpg"
 },
 {
-  name: "Kishore_Kumar_-_Diye_Jalte_Hai_Phool_Khilte_Hai.mp3",
-  title: "Kishore Kumar - Diye Jalte Hai Phool Khilte Hai",
+  name: "Kishore_Kumar_-_Aane_Wala_Pal_Jane_Wala_Hai.mp3",
+  title: "Kishore Kumar - Aane Wala Pal Jane Wala Hai",
   artist: "Artist: Unknown",
-  cover: "covers/Kishore_Kumar_-_Diye_Jalte_Hai_Phool_Khilte_Hai.jpg"
+  cover: "covers/Kishore_Kumar_-_Aane_Wala_Pal_Jane_Wala_Hai.jpg"
 },
 {
-  name: "Kishore_Kumar_-_Mere_Mehboob_Qayamat_Hogi.mp3",
-  title: "Kishore Kumar - Mere Mehboob Qayamat Hogi",
+  name: "Kishore_Kumar_-_Roop_Tera_Mastana.mp3",
+  title: "Kishore Kumar - Roop Tera Mastana",
   artist: "Artist: Unknown",
-  cover: "covers/Kishore_Kumar_-_Mere_Mehboob_Qayamat_Hogi.jpg"
+  cover: "covers/Kishore_Kumar_-_Roop_Tera_Mastana.jpg"
 },
 {
-  name: "Kishore_Kumar_-_Apni_To_Jaise_Taise_Kat_Jayegi.mp3",
-  title: "Kishore Kumar - Apni To Jaise Taise Kat Jayegi",
+  name: "Kishore_Kumar_-_Pal_Pal_Dil_Ke_Paas_Tum_Rehti_Ho.mp3",
+  title: "Kishore Kumar - Pal Pal Dil Ke Paas Tum Rehti Ho",
   artist: "Artist: Unknown",
-  cover: "covers/Kishore_Kumar_-_Apni_To_Jaise_Taise_Kat_Jayegi.jpg"
-},
-{
-  name: "Kishore_Kumar_-_Mere_Naina_Sawan_Bhadon_Phir_Bhi_Mera_Man_Pyasa.mp3",
-  title: "Kishore Kumar - Mere Naina Sawan Bhadon Phir Bhi Mera Man Pyasa",
-  artist: "Artist: Unknown",
-  cover: "covers/Kishore_Kumar_-_Mere_Naina_Sawan_Bhadon_Phir_Bhi_Mera_Man_Pyasa.jpg"
-},
-{
-  name: "Kishore_Kumar_-_Mere_Samne_Wali_Khidki_Mein.mp3",
-  title: "Kishore Kumar - Mere Samne Wali Khidki Mein",
-  artist: "Artist: Unknown",
-  cover: "covers/Kishore_Kumar_-_Mere_Samne_Wali_Khidki_Mein.jpg"
-},
-{
-  name: "Kishore_Kumar_-_Chalte_Chalte.mp3",
-  title: "Kishore Kumar - Chalte Chalte",
-  artist: "Artist: Unknown",
-  cover: "covers/Kishore_Kumar_-_Chalte_Chalte.jpg"
+  cover: "covers/Kishore_Kumar_-_Pal_Pal_Dil_Ke_Paas_Tum_Rehti_Ho.jpg"
 }
 ];
