@@ -10,286 +10,124 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
-  name: "Rockstar_-_Aur_Ho.mp3",
-  title: "Rockstar - Aur Ho",
+  name: "Kishore_Kumar_-_Kuchh_To_Log_Kahenge.mp3",
+  title: "Kishore Kumar - Kuchh To Log Kahenge",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Aur_Ho.jpg"
+  cover: "covers/Kishore_Kumar_-_Kuchh_To_Log_Kahenge.jpg"
 },
 {
-  name: "Rockstar_-_Tum_Ho.mp3",
-  title: "Rockstar - Tum Ho",
+  name: "Kishore_Kumar_-_Ek_Ajanabee_Haseena_Se.mp3",
+  title: "Kishore Kumar - Ek Ajanabee Haseena Se",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Tum_Ho.jpg"
+  cover: "covers/Kishore_Kumar_-_Ek_Ajanabee_Haseena_Se.jpg"
 },
 {
-  name: "Rockstar_-_Jo_Bhi_main.mp3",
-  title: "Rockstar - Jo Bhi main",
+  name: "Kishore_Kumar_-_Mera_Jeevan_Kora_Kagaz.mp3",
+  title: "Kishore Kumar - Mera Jeevan Kora Kagaz",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Jo_Bhi_main.jpg"
+  cover: "covers/Kishore_Kumar_-_Mera_Jeevan_Kora_Kagaz.jpg"
 },
 {
-  name: "Rockstar_-_Sadda_Haq.mp3",
-  title: "Rockstar - Sadda Haq",
+  name: "Kishore_Kumar_-_Chingari_Koi_Bhadke.mp3",
+  title: "Kishore Kumar - Chingari Koi Bhadke",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Sadda_Haq.jpg"
+  cover: "covers/Kishore_Kumar_-_Chingari_Koi_Bhadke.jpg"
 },
 {
-  name: "Rockstar_-_Phir_Se_Ud_Chala.mp3",
-  title: "Rockstar - Phir Se Ud Chala",
+  name: "Kishore_Kumar_-_O_Sathi_Re.mp3",
+  title: "Kishore Kumar - O Sathi Re",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Phir_Se_Ud_Chala.jpg"
+  cover: "covers/Kishore_Kumar_-_O_Sathi_Re.jpg"
 },
 {
-  name: "Rockstar_-_Nadaan_Parinde.mp3",
-  title: "Rockstar - Nadaan Parinde",
+  name: "Kishore_Kumar_-_Dil_Aisa_Kisi_Ne_Mera_Toda.mp3",
+  title: "Kishore Kumar - Dil Aisa Kisi Ne Mera Toda",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Nadaan_Parinde.jpg"
+  cover: "covers/Kishore_Kumar_-_Dil_Aisa_Kisi_Ne_Mera_Toda.jpg"
 },
 {
-  name: "Rockstar_-_Kun_Faya_Kun.mp3",
-  title: "Rockstar - Kun Faya Kun",
+  name: "Kishore_Kumar_-_Yeh_Kya_Hua.mp3",
+  title: "Kishore Kumar - Yeh Kya Hua",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Kun_Faya_Kun.jpg"
+  cover: "covers/Kishore_Kumar_-_Yeh_Kya_Hua.jpg"
 },
 {
-  name: "Rockstar_-_Jaagran.mp3",
-  title: "Rockstar - Jaagran",
+  name: "Kishore_Kumar_-_Yeh_Raaten_Yeh_Mausam.mp3",
+  title: "Kishore Kumar - Yeh Raaten Yeh Mausam",
   artist: "Artist: Unknown",
-  cover: "covers/Rockstar_-_Jaagran.jpg"
+  cover: "covers/Kishore_Kumar_-_Yeh_Raaten_Yeh_Mausam.jpg"
 },
 {
-  name: "Kites_-_Zindagi_Do_Pal_Ki.mp3",
-  title: "Kites - Zindagi Do Pal Ki",
+  name: "Kishore_Kumar_-_Tum_Bin_Jaoon_Kahan.mp3",
+  title: "Kishore Kumar - Tum Bin Jaoon Kahan",
   artist: "Artist: Unknown",
-  cover: "covers/Kites_-_Zindagi_Do_Pal_Ki.jpg"
+  cover: "covers/Kishore_Kumar_-_Tum_Bin_Jaoon_Kahan.jpg"
 },
 {
-  name: "Kites_-_Dil_Kyun_Yeh_Mera.mp3",
-  title: "Kites - Dil Kyun Yeh Mera",
+  name: "Kishore_Kumar_-_Zindagi_Ke_Safar_Mein_Guzar_Jaate.mp3",
+  title: "Kishore Kumar - Zindagi Ke Safar Mein Guzar Jaate",
   artist: "Artist: Unknown",
-  cover: "covers/Kites_-_Dil_Kyun_Yeh_Mera.jpg"
+  cover: "covers/Kishore_Kumar_-_Zindagi_Ke_Safar_Mein_Guzar_Jaate.jpg"
 },
 {
-  name: "Kites_-_Tum_Bhi_Ho_Wahi.mp3",
-  title: "Kites - Tum Bhi Ho Wahi",
+  name: "Kishore_Kumar_-_Zindagi_Ka_Safar_Hai_Yeh_Kaisa_Safar.mp3",
+  title: "Kishore Kumar - Zindagi Ka Safar Hai Yeh Kaisa Safar",
   artist: "Artist: Unknown",
-  cover: "covers/Kites_-_Tum_Bhi_Ho_Wahi.jpg"
+  cover: "covers/Kishore_Kumar_-_Zindagi_Ka_Safar_Hai_Yeh_Kaisa_Safar.jpg"
 },
 {
-  name: "Kites_in_the_Sky_Song.mp3",
-  title: "Kites in the Sky Song",
+  name: "Kishore_Kumar_-_Zindagi_Ek_Safar_Hai_Suhana.mp3",
+  title: "Kishore Kumar - Zindagi Ek Safar Hai Suhana",
   artist: "Artist: Unknown",
-  cover: "covers/Kites_in_the_Sky_Song.jpg"
+  cover: "covers/Kishore_Kumar_-_Zindagi_Ek_Safar_Hai_Suhana.jpg"
 },
 {
-  name: "Wake_Up_Sid_-_Iktara.mp3",
-  title: "Wake Up Sid - Iktara",
+  name: "Kishore_Kumar_-_O_Mere_Dil_Ke_Chain.mp3",
+  title: "Kishore Kumar - O Mere Dil Ke Chain",
   artist: "Artist: Unknown",
-  cover: "covers/Wake_Up_Sid_-_Iktara.jpg"
+  cover: "covers/Kishore_Kumar_-_O_Mere_Dil_Ke_Chain.jpg"
 },
 {
-  name: "Wake_Up_Sid_-_Aaj_Kal_Zindagi.mp3",
-  title: "Wake Up Sid - Aaj Kal Zindagi",
+  name: "Kishore_Kumar_-_Phoolon_Ke_Rang_Se.mp3",
+  title: "Kishore Kumar - Phoolon Ke Rang Se",
   artist: "Artist: Unknown",
-  cover: "covers/Wake_Up_Sid_-_Aaj_Kal_Zindagi.jpg"
+  cover: "covers/Kishore_Kumar_-_Phoolon_Ke_Rang_Se.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Badtameez_Dil.mp3",
-  title: "Yeh Jawani Hai Deewani - Badtameez Dil",
+  name: "Kishore_Kumar_-_Aane_Wala_Pal_Jane_Wala_Hai.mp3",
+  title: "Kishore Kumar - Aane Wala Pal Jane Wala Hai",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Badtameez_Dil.jpg"
+  cover: "covers/Kishore_Kumar_-_Aane_Wala_Pal_Jane_Wala_Hai.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Ilahi_(Arijit_Singh).mp3",
-  title: "Yeh Jawani Hai Deewani - Ilahi (Arijit Singh)",
+  name: "Kishore_Kumar_-_Mere_Sapnon_Ki_Rani.mp3",
+  title: "Kishore Kumar - Mere Sapnon Ki Rani",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Ilahi_(Arijit_Singh).jpg"
+  cover: "covers/Kishore_Kumar_-_Mere_Sapnon_Ki_Rani.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Ilahi_(Reprise_Mohit_Chauhan).mp3",
-  title: "Yeh Jawani Hai Deewani - Ilahi (Reprise Mohit Chauhan)",
+  name: "Kishore_Kumar_-_Yeh_Sham_Mastani.mp3",
+  title: "Kishore Kumar - Yeh Sham Mastani",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Ilahi_(Reprise_Mohit_Chauhan).jpg"
+  cover: "covers/Kishore_Kumar_-_Yeh_Sham_Mastani.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Kabira.mp3",
-  title: "Yeh Jawani Hai Deewani - Kabira",
+  name: "Kishore_Kumar_-_Roop_Tera_Mastana.mp3",
+  title: "Kishore Kumar - Roop Tera Mastana",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Kabira.jpg"
+  cover: "covers/Kishore_Kumar_-_Roop_Tera_Mastana.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Kabira_(Encore).mp3",
-  title: "Yeh Jawani Hai Deewani - Kabira (Encore)",
+  name: "Kishore_Kumar_-_Pal_Pal_Dil_Ke_Paas_Tum_Rehti_Ho.mp3",
+  title: "Kishore Kumar - Pal Pal Dil Ke Paas Tum Rehti Ho",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Kabira_(Encore).jpg"
+  cover: "covers/Kishore_Kumar_-_Pal_Pal_Dil_Ke_Paas_Tum_Rehti_Ho.jpg"
 },
 {
-  name: "Yeh_Jawani_Hai_Deewani_-_Subhanallah.mp3",
-  title: "Yeh Jawani Hai Deewani - Subhanallah",
+  name: "Kishore_Kumar_-_Chalte_Chalte_Mere_Yeh_Geet_Yaad_Rakhna.mp3",
+  title: "Kishore Kumar - Chalte Chalte Mere Yeh Geet Yaad Rakhna",
   artist: "Artist: Unknown",
-  cover: "covers/Yeh_Jawani_Hai_Deewani_-_Subhanallah.jpg"
-},
-{
-  name: "Ae_Dil_Hai_Mushkil_Song.mp3",
-  title: "Ae Dil Hai Mushkil Song",
-  artist: "Artist: Unknown",
-  cover: "covers/Ae_Dil_Hai_Mushkil_Song.jpg"
-},
-{
-  name: "Ae_Dil_Hai_Mushkil_-_Bulleya.mp3",
-  title: "Ae Dil Hai Mushkil - Bulleya",
-  artist: "Artist: Unknown",
-  cover: "covers/Ae_Dil_Hai_Mushkil_-_Bulleya.jpg"
-},
-{
-  name: "Ae_Dil_Hai_Mushkil_-_Channa_Mereya.mp3",
-  title: "Ae Dil Hai Mushkil - Channa Mereya",
-  artist: "Artist: Unknown",
-  cover: "covers/Ae_Dil_Hai_Mushkil_-_Channa_Mereya.jpg"
-},
-{
-  name: "Ae_Dil_Hai_Mushkil_-_Aaj_Jane_Ki_Zid_Na_Karo.mp3",
-  title: "Ae Dil Hai Mushkil - Aaj Jane Ki Zid Na Karo",
-  artist: "Artist: Unknown",
-  cover: "covers/Ae_Dil_Hai_Mushkil_-_Aaj_Jane_Ki_Zid_Na_Karo.jpg"
-},
-{
-  name: "Dil_Chahta_Hai_Song.mp3",
-  title: "Dil Chahta Hai Song",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_Song.jpg"
-},
-{
-  name: "Dil_Chahta_Hai_(Reprise).mp3",
-  title: "Dil Chahta Hai (Reprise)",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_(Reprise).jpg"
-},
-{
-  name: "Dil_Chahta_Hai_-_Tanhayee.mp3",
-  title: "Dil Chahta Hai - Tanhayee",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Tanhayee.jpg"
-},
-{
-  name: "Dil_Chahta_Hai_-_Jaane_Kyon_Log_Pyar.mp3",
-  title: "Dil Chahta Hai - Jaane Kyon Log Pyar",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Jaane_Kyon_Log_Pyar.jpg"
-},
-{
-  name: "Dil_Chahta_Hai_-_Kaisi_Hai_Ye_Rut.mp3",
-  title: "Dil Chahta Hai - Kaisi Hai Ye Rut",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Kaisi_Hai_Ye_Rut.jpg"
-},
-{
-  name: "Dil_Chahta_Hai_-_Koi_Kahe_Kehta_Rahe.mp3",
-  title: "Dil Chahta Hai - Koi Kahe Kehta Rahe",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Koi_Kahe_Kehta_Rahe.jpg"
-},
-{
-  name: "Dil_Chahta_Hai_-_Woh_Ladki_Hai_Kahan.mp3",
-  title: "Dil Chahta Hai - Woh Ladki Hai Kahan",
-  artist: "Artist: Unknown",
-  cover: "covers/Dil_Chahta_Hai_-_Woh_Ladki_Hai_Kahan.jpg"
-},
-{
-  name: "Tamasha_-_Matargashti.mp3",
-  title: "Tamasha - Matargashti",
-  artist: "Artist: Unknown",
-  cover: "covers/Tamasha_-_Matargashti.jpg"
-},
-{
-  name: "Tamasha_-_Agar_Tum_Saath_Ho.mp3",
-  title: "Tamasha - Agar Tum Saath Ho",
-  artist: "Artist: Unknown",
-  cover: "covers/Tamasha_-_Agar_Tum_Saath_Ho.jpg"
-},
-{
-  name: "Tamasha_-_Safarnama.mp3",
-  title: "Tamasha - Safarnama",
-  artist: "Artist: Unknown",
-  cover: "covers/Tamasha_-_Safarnama.jpg"
-},
-{
-  name: "Barfi_-_Ala_Barfi_(Mohit_Chauhan).mp3",
-  title: "Barfi - Ala Barfi (Mohit Chauhan)",
-  artist: "Artist: Unknown",
-  cover: "covers/Barfi_-_Ala_Barfi_(Mohit_Chauhan).jpg"
-},
-{
-  name: "Barfi_-_Ala_Barfi_(Swanand_Kirkire).mp3",
-  title: "Barfi - Ala Barfi (Swanand Kirkire)",
-  artist: "Artist: Unknown",
-  cover: "covers/Barfi_-_Ala_Barfi_(Swanand_Kirkire).jpg"
-},
-{
-  name: "Barfi_-_Main_Kya_Karoon.mp3",
-  title: "Barfi - Main Kya Karoon",
-  artist: "Artist: Unknown",
-  cover: "covers/Barfi_-_Main_Kya_Karoon.jpg"
-},
-{
-  name: "Barfi_-_Aashiyan_(Solo).mp3",
-  title: "Barfi - Aashiyan (Solo)",
-  artist: "Artist: Unknown",
-  cover: "covers/Barfi_-_Aashiyan_(Solo).jpg"
-},
-{
-  name: "Barfi_-_Kyon.mp3",
-  title: "Barfi - Kyon",
-  artist: "Artist: Unknown",
-  cover: "covers/Barfi_-_Kyon.jpg"
-},
-{
-  name: "Barfi_-_Phir_le_Aya_Dil_(Arijit_Singh).mp3",
-  title: "Barfi - Phir le Aya Dil (Arijit Singh)",
-  artist: "Artist: Unknown",
-  cover: "covers/Barfi_-_Phir_le_Aya_Dil_(Arijit_Singh).jpg"
-},
-{
-  name: "Barfi_-_Phir_le_Aya_Dil_(Rekha_Bhardwaj).mp3",
-  title: "Barfi - Phir le Aya Dil (Rekha Bhardwaj)",
-  artist: "Artist: Unknown",
-  cover: "covers/Barfi_-_Phir_le_Aya_Dil_(Rekha_Bhardwaj).jpg"
-},
-{
-  name: "Barfi_-_Phir_le_Aya_Dil_(Reprise).mp3",
-  title: "Barfi - Phir le Aya Dil (Reprise)",
-  artist: "Artist: Unknown",
-  cover: "covers/Barfi_-_Phir_le_Aya_Dil_(Reprise).jpg"
-},
-{
-  name: "Kedarnath_-_Namo_Namo.mp3",
-  title: "Kedarnath - Namo Namo",
-  artist: "Artist: Unknown",
-  cover: "covers/Kedarnath_-_Namo_Namo.jpg"
-},
-{
-  name: "Kedarnath_-_Qaafirana.mp3",
-  title: "Kedarnath - Qaafirana",
-  artist: "Artist: Unknown",
-  cover: "covers/Kedarnath_-_Qaafirana.jpg"
-},
-{
-  name: "Kedarnath_-_Jaan_Nisaar_(Arijit).mp3",
-  title: "Kedarnath - Jaan Nisaar (Arijit)",
-  artist: "Artist: Unknown",
-  cover: "covers/Kedarnath_-_Jaan_Nisaar_(Arijit).jpg"
-},
-{
-  name: "Kedarnath_-_Jaan_Nisaar_(Asees).mp3",
-  title: "Kedarnath - Jaan Nisaar (Asees)",
-  artist: "Artist: Unknown",
-  cover: "covers/Kedarnath_-_Jaan_Nisaar_(Asees).jpg"
-},
-{
-  name: "Amit_Trivedi_-_Naina_Da_Kya_Kasoor.mp3",
-  title: "Amit Trivedi - Naina Da Kya Kasoor",
-  artist: "Artist: Unknown",
-  cover: "covers/Amit_Trivedi_-_Naina_Da_Kya_Kasoor.jpg"
+  cover: "covers/Kishore_Kumar_-_Chalte_Chalte_Mere_Yeh_Geet_Yaad_Rakhna.jpg"
 }
 ];
 
