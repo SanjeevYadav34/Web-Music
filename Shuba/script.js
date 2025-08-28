@@ -10,6 +10,12 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
+  name: "../Komal/songs/Katchi_Sera.mp3",
+  title: "Katchi Sera",
+  artist: "Artist: Unknown",
+  cover: "../Komal/covers/Katchi_Sera.jpg"
+},
+{
   name: "Anirudh_Ravichander_-_Why_This_Kolaveri_Di.mp3",
   title: "Anirudh Ravichander - Why This Kolaveri Di",
   artist: "Artist: Unknown",
