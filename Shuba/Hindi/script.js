@@ -19,7 +19,7 @@ const songs = [
   name: "../../../Komal/songs/Katchi_Sera.mp3",
   title: "Katchi Sera",
   artist: "Artist: Unknown",
-  cover: "../Komal/covers/Katchi_Sera.jpg"
+  cover: "../../Komal/covers/Katchi_Sera.jpg"
 },
 {
   name: "Sai_Abhyankkar_-_Aasa_Kooda.mp3",
