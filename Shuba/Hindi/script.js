@@ -16,6 +16,12 @@ const songs = [
   cover: "covers/Sai_Abhyankkar_-_Valam_Varavendum.jpg"
 },
 {
+  name: "../../../Komal/songs/Katchi_Sera.mp3",
+  title: "Katchi Sera",
+  artist: "Artist: Unknown",
+  cover: "../Komal/covers/Katchi_Sera.jpg"
+},
+{
   name: "Sai_Abhyankkar_-_Aasa_Kooda.mp3",
   title: "Sai Abhyankkar - Aasa Kooda",
   artist: "Artist: Unknown",
