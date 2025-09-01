@@ -10,185 +10,143 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
-  name: "Indrajit/songs/Enemy_-_Tommee_Profitt,_Sam_Tinnesz_&_Beacon_Light.mp3",
-  title: "Enemy - Tommee Profitt, Sam Tinnesz & Beacon Light",
+  name: "songs/Shubh_-_Supreme.mp3",
+  title: "Shubh - Supreme",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Enemy_-_Tommee_Profitt,_Sam_Tinnesz_&_Beacon_Light.jpg"
-},
-  {
-    name: "songs/beggin.mp3",
-    title: "Beggin",
-    artist: "Artist: Måneskin",
-    cover: "covers/beggin.jpg"
-  },
-  {
-    name: "songs/sapphire.mp3",
-    title: "Sapphire",
-    artist: "Artist: Ed Sheeran",
-    cover: "covers/sapphire.jpg"
-  },
-  {
-    name: "songs/fairytale.mp3",
-    title: "Fairytale",
-    artist: "Artist: Alexander Rybak",
-    cover: "covers/fairytale.jpg"
-  },
-  {
-    name: "songs/cheri_cheri_lady.mp3",
-    title: "Cheri Cheri Lady",
-    artist: "Artist: Modern Talking",
-    cover: "covers/cheri_cheri_lady.webp"
-  },
-  {
-    name: "songs/senorita.mp3",
-    title: "SEÑORITA",
-    artist: "Artist: Shawn Mendes, Camila Cabello",
-    cover: "covers/senorita.webp"
-  },
-  {
-    name: "songs/feeling_good.mp3",
-    title: "Michael Bublé - Feeling Good",
-    artist: "Artist: Michael Bublé",
-    cover: "covers/feeling_good.jpg"
-  },
-  {
-    name: "songs/neutral.mp3",
-    title: "Imagine Dragons - Natural",
-    artist: "Artist: Imagine Dragons",
-    cover: "covers/neutral.webp"
-  },
-{
-  name: "Indrajit/songs/Imagine_Dragons_-_Bones.mp3",
-  title: "Imagine Dragons - Bones",
-  artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Imagine_Dragons_-_Bones.jpg"
+  cover: "covers/Shubh_-_Supreme.jpg"
 },
 {
-  name: "Indrajit/songs/Imagine_Dragons_-_Bad_Liar.mp3",
-  title: "Imagine Dragons - Bad Liar",
+  name: "songs/Prabh_Singh_-_9:45.mp3",
+  title: "Prabh Singh - 9:45",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Imagine_Dragons_-_Bad_Liar.jpg"
+  cover: "covers/Prabh_Singh_-_9:45.jpg"
 },
 {
-  name: "Indrajit/songs/Imagine_Dragons_-_Demons.mp3",
-  title: "Imagine Dragons - Demons",
+  name: "songs/Shubh_-_Fell_For_You.mp3",
+  title: "Shubh - Fell For You",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Imagine_Dragons_-_Demons.jpg"
+  cover: "covers/Shubh_-_Fell_For_You.jpg"
 },
 {
-  name: "Indrajit/songs/Imagine_Dragons_-_Believer.mp3",
-  title: "Imagine Dragons - Believer",
+  name: "songs/Guru_Randhawa_-_Qatal.mp3",
+  title: "Guru Randhawa - Qatal",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Imagine_Dragons_-_Believer.jpg"
+  cover: "covers/Guru_Randhawa_-_Qatal.jpg"
 },
 {
-  name: "Indrajit/songs/Imagine_Dragons_-_Enemy.mp3",
-  title: "Imagine Dragons - Enemy",
+  name: "songs/oheydoz,_Jaskaran_&_Rita_Kim_-_Superstar.mp3",
+  title: "oheydoz, Jaskaran & Rita Kim - Superstar",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Imagine_Dragons_-_Enemy.jpg"
+  cover: "covers/oheydoz,_Jaskaran_&_Rita_Kim_-_Superstar.jpg"
 },
 {
-  name: "Indrajit/songs/Imagine_Dragons_-_Thunder.mp3",
-  title: "Imagine Dragons - Thunder",
+  name: "songs/AP_Dhillon,_Gurinder_Gill_-_Excuses.mp3",
+  title: "AP Dhillon, Gurinder Gill - Excuses",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Imagine_Dragons_-_Thunder.jpg"
+  cover: "covers/AP_Dhillon,_Gurinder_Gill_-_Excuses.jpg"
 },
 {
-  name: "Indrajit/songs/Ed_Sheeran_-_Perfect.mp3",
-  title: "Ed Sheeran - Perfect",
+  name: "songs/Karan_Aujla_-_Softly.mp3",
+  title: "Karan Aujla - Softly",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Ed_Sheeran_-_Perfect.jpg"
+  cover: "covers/Karan_Aujla_-_Softly.jpg"
 },
 {
-  name: "Indrajit/songs/Ed_Sheeran_-_Photograph.mp3",
-  title: "Ed Sheeran - Photograph",
+  name: "songs/Shubh_-_One_Love.mp3",
+  title: "Shubh - One Love",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Ed_Sheeran_-_Photograph.jpg"
+  cover: "covers/Shubh_-_One_Love.jpg"
 },
 {
-  name: "Indrajit/songs/Ed_Sheeran_-_Shape_of_You.mp3",
-  title: "Ed Sheeran - Shape of You",
+  name: "songs/Diljit_Dosanjh_&_Sia_-_Hass_Hass.mp3",
+  title: "Diljit Dosanjh & Sia - Hass Hass",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Ed_Sheeran_-_Shape_of_You.jpg"
+  cover: "covers/Diljit_Dosanjh_&_Sia_-_Hass_Hass.jpg"
 },
 {
-  name: "Indrajit/songs/Ed_-_Sheeran_-_I_Don't_Care.mp3",
-  title: "Ed - Sheeran - I Don't Care",
+  name: "songs/Tesher_-_Jalebi_Baby.mp3",
+  title: "Tesher - Jalebi Baby",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Ed_-_Sheeran_-_I_Don't_Care.jpg"
+  cover: "covers/Tesher_-_Jalebi_Baby.jpg"
 },
 {
-  name: "Indrajit/songs/Ed_Sheeran_-_I_Don't_Care_Ed_Sheeran_-_Beautiful_People.mp3",
-  title: "Ed Sheeran - Beautiful People",
+  name: "songs/Guru_Randhawa_-_Azul.mp3",
+  title: "Guru Randhawa - Azul",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Ed_Sheeran_-_I_Don't_Care_Ed_Sheeran_-_Beautiful_People.jpg"
+  cover: "covers/Guru_Randhawa_-_Azul.jpg"
 },
 {
-  name: "Indrajit/songs/Ed_Sheeran_-_Thinking_Out_Loud.mp3",
-  title: "Ed Sheeran - Thinking Out Loud",
+  name: "songs/Talwinder_-_Haseen.mp3",
+  title: "Talwinder - Haseen",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Ed_Sheeran_-_Thinking_Out_Loud.jpg"
+  cover: "covers/Talwinder_-_Haseen.jpg"
 },
 {
-  name: "Indrajit/songs/Passenger_-_Let_Her_Go.mp3",
-  title: "Passenger - Let Her Go",
+  name: "songs/Harshal_Music_ft._Shubh_&_Sonam_Bajwa_-_Fell_For_You_Mashup.mp3",
+  title: "Harshal Music ft. Shubh & Sonam Bajwa - Fell For You Mashup",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Passenger_-_Let_Her_Go.jpg"
+  cover: "covers/Harshal_Music_ft._Shubh_&_Sonam_Bajwa_-_Fell_For_You_Mashup.jpg"
 },
 {
-  name: "Indrajit/songs/Bruno_Mars_-_Talking_To_The_Moon.mp3",
-  title: "Bruno Mars - Talking To The Moon",
+  name: "songs/Deepti_-_Russian_Bandana_(Dhanda_Nyoliwala).mp3",
+  title: "Deepti - Russian Bandana (Dhanda Nyoliwala)",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Bruno_Mars_-_Talking_To_The_Moon.jpg"
+  cover: "covers/Deepti_-_Russian_Bandana_(Dhanda_Nyoliwala).jpg"
 },
 {
-  name: "Indrajit/songs/Marron_5_-_Girls_Like_You.mp3",
-  title: "Marron 5 - Girls Like You",
+  name: "songs/Karan_Aujla_-_Wavy.mp3",
+  title: "Karan Aujla - Wavy",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Marron_5_-_Girls_Like_You.jpg"
+  cover: "covers/Karan_Aujla_-_Wavy.jpg"
 },
 {
-  name: "Indrajit/songs/Post_Malone_-_Sunflower.mp3",
-  title: "Post Malone - Sunflower",
+  name: "songs/Diljit_Dosanjh_ft._Sultaan_-_Lalkaara.mp3",
+  title: "Diljit Dosanjh ft. Sultaan - Lalkaara",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Post_Malone_-_Sunflower.jpg"
+  cover: "covers/Diljit_Dosanjh_ft._Sultaan_-_Lalkaara.jpg"
 },
 {
-  name: "Indrajit/songs/Avicii_-_The_Nights.mp3",
-  title: "Avicii - The Nights",
+  name: "songs/Shubh_-_MVP.mp3",
+  title: "Shubh - MVP",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Avicii_-_The_Nights.jpg"
+  cover: "covers/Shubh_-_MVP.jpg"
 },
 {
-  name: "Indrajit/songs/Avicii_-_Waiting_For_Love.mp3",
-  title: "Avicii - Waiting For Love",
+  name: "songs/Shubh_-_You_And_Me.mp3",
+  title: "Shubh - You And Me",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Avicii_-_Waiting_For_Love.jpg"
+  cover: "covers/Shubh_-_You_And_Me.jpg"
 },
 {
-  name: "Indrajit/songs/The_Chainsmokers_-_Closer.mp3",
-  title: "The Chainsmokers - Closer",
+  name: "songs/Afusic_-_Pal_Pal.mp3",
+  title: "Afusic - Pal Pal",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/The_Chainsmokers_-_Closer.jpg"
+  cover: "covers/Afusic_-_Pal_Pal.jpg"
 },
 {
-  name: "Indrajit/songs/Charlie_Puth_-_One_Call_Away.mp3",
-  title: "Charlie Puth - One Call Away",
+  name: "songs/Release_-_Kinni_Kinni.mp3",
+  title: "Release - Kinni Kinni",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Charlie_Puth_-_One_Call_Away.jpg"
+  cover: "covers/Release_-_Kinni_Kinni.jpg"
 },
 {
-  name: "Indrajit/songs/Charlie_Puth_-_We_Don't_Talk_Anymore.mp3",
-  title: "Charlie Puth - We Don't Talk Anymore",
+  name: "songs/Sai_Abhyankkar_-_Aasa_Kooda.mp3",
+  title: "Sai Abhyankkar - Aasa Kooda",
   artist: "Artist: Unknown",
-  cover: "Indrajit/covers/Charlie_Puth_-_We_Don't_Talk_Anymore.jpg"
+  cover: "covers/Sai_Abhyankkar_-_Aasa_Kooda.jpg"
 },
-  {
-    name: "rahul/songs/Stephen Sanchez - Until I Found You (Official Video).mp3",
-    title: "Stephen Sanchez - Until I Found You (Official Video)",
-    artist: "",
-    cover: "rahul/covers/step.jpg"
-  }
+{
+  name: "songs/Aditya_Rikhari_&_Ankita_Chhetri_-_Sahiba.mp3",
+  title: "Aditya Rikhari & Ankita Chhetri - Sahiba",
+  artist: "Artist: Unknown",
+  cover: "covers/Aditya_Rikhari_&_Ankita_Chhetri_-_Sahiba.jpg"
+},
+{
+  name: "songs/Yo_Yo_Honey_Singh_&_Nora_Fatehi_-_Payal_Song.mp3",
+  title: "Yo Yo Honey Singh & Nora Fatehi - Payal Song",
+  artist: "Artist: Unknown",
+  cover: "covers/Yo_Yo_Honey_Singh_&_Nora_Fatehi_-_Payal_Song.jpg"
+}
 ];
 
 let songIndex = 0;
