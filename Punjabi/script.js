@@ -37,7 +37,7 @@ const songs = [
   name: "songs/oheydoz,_Jaskaran_&_Rita_Kim_-_Superstar.mp3",
   title: "oheydoz, Jaskaran & Rita Kim - Superstar",
   artist: "Artist: Unknown",
-  cover: "covers/oheydoz,_Jaskaran_&_Rita_Kim_-_Superstar.jpg"
+  cover: "covers/oheydoz,_Jaskaran_&_Rita_Kim_-_Superstar.webp"
 },
 {
   name: "songs/AP_Dhillon,_Gurinder_Gill_-_Excuses.mp3",
