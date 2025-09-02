@@ -10,12 +10,6 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
-    name: "songs/Guru Randhawa - SIRRA.mp3",
-    title: "Guru Randhawa - SIRRA",
-    artist: "",
-    cover: "covers/Guru Randhawa - SIRRA.webp"
-  },
-{
     name: "songs/mera_mann.mp3",
     title: "Mera Mann",
     artist: "",
