@@ -101,7 +101,7 @@ const songs = [
 }
 ];
 
-let songIndex = 1;
+let songIndex = 0;
 let isLooping = false;
 
 function highlightActiveSong() {
