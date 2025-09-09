@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "oheydoz,_Jaskaran_&_Rita_Kim_-_Superstar.mp3",
-  title: "oheydoz, Jaskaran & Rita Kim - Superstar",
+  name: "Malang_Song_|_Dhoom_3.mp3",
+  title: "Malang Song | Dhoom 3",
   artist: "Artist: Unknown",
-  cover: "covers/oheydoz,_Jaskaran_&_Rita_Kim_-_Superstar.jpg"
+  cover: "covers/Malang_Song_|_Dhoom_3.jpg"
 }
 ];
