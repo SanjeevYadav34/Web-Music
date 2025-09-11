@@ -10,100 +10,124 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
-  name: "Sai_Abhyankkar_-_Valam_Varavendum.mp3",
-  title: "Sai Abhyankkar - Valam Varavendum",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Valam_Varavendum.jpg"
+  name: "Hiphop_Tamizha_-_Manithan_Tamizhan.mp3",
+  title: "Hiphop Tamizha - Manithan Tamizhan",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Manithan_Tamizhan.jpg"
 },
 {
-  name: "../../../Komal/songs/Katchi_Sera.mp3",
-  title: "Katchi Sera",
-  artist: "Artist: Unknown",
-  cover: "../../Komal/covers/Katchi_Sera.jpg"
+  name: "Hiphop_Tamizha_-_Tamizhanda.mp3",
+  title: "Hiphop Tamizha - Tamizhanda",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Tamizhanda.jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Aasa_Kooda.mp3",
-  title: "Sai Abhyankkar - Aasa Kooda",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Aasa_Kooda.jpg"
+  name: "Hiphop_Tamizha_-_Tamizh_Theriyum.mp3",
+  title: "Hiphop Tamizha - Tamizh Theriyum",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Tamizh_Theriyum.jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Sithira_Puthiri.mp3",
-  title: "Sai Abhyankkar - Sithira Puthiri",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Sithira_Puthiri.jpg"
+  name: "Hiphop_Tamizha_-_Club_Le_Mabbu_Le.mp3",
+  title: "Hiphop Tamizha - Club Le Mabbu Le",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Club_Le_Mabbu_Le.jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Vizhi_Veekura.mp3",
-  title: "Sai Abhyankkar - Vizhi Veekura",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Vizhi_Veekura.jpg"
+  name: "Hiphop_Tamizha_-_Sentamizh_Penne.mp3",
+  title: "Hiphop Tamizha - Sentamizh Penne",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Sentamizh_Penne.jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Salambala.mp3",
-  title: "Sai Abhyankkar - Salambala",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Salambala.jpg"
+  name: "Hiphop_Tamizha_-_Ini_Illaye_Hum.mp3",
+  title: "Hiphop Tamizha - Ini Illaye Hum",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Ini_Illaye_Hum.jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Verappa.mp3",
-  title: "Sai Abhyankkar - Verappa",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Verappa.jpg"
+  name: "Hiphop_Tamizha_-_Cheap_Popularity_(Skit).mp3",
+  title: "Hiphop Tamizha - Cheap Popularity (Skit)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Cheap_Popularity_(Skit).jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Benz_In_The_Universe_Theme.mp3",
-  title: "Sai Abhyankkar - Benz In The Universe Theme",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Benz_In_The_Universe_Theme.jpg"
+  name: "Hiphop_Tamizha_-_Iraiva.mp3",
+  title: "Hiphop Tamizha - Iraiva",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Iraiva.jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Twin_Fish_Walter.mp3",
-  title: "Sai Abhyankkar - Twin Fish Walter",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Twin_Fish_Walter.jpg"
+  name: "Hiphop_Tamizha_-_Karpom_Karpipom.mp3",
+  title: "Hiphop Tamizha - Karpom Karpipom",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Karpom_Karpipom.jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Blud_Is_On_His_Way.mp3",
-  title: "Sai Abhyankkar - Blud Is On His Way",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Blud_Is_On_His_Way.jpg"
+  name: "Hiphop_Tamizha_-_Hey_Do_What_I_Say.mp3",
+  title: "Hiphop Tamizha - Hey Do What I Say",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Hey_Do_What_I_Say.jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Soda_Break.mp3",
-  title: "Sai Abhyankkar - Soda Break",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Soda_Break.jpg"
+  name: "Hiphop_Tamizha_-_Stop_Piracy_(Outro).mp3",
+  title: "Hiphop Tamizha - Stop Piracy (Outro)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Stop_Piracy_(Outro).jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Boom_Boom_(From_Dude_-_Telugu).mp3",
-  title: "Sai Abhyankkar - Boom Boom (From Dude - Telugu)",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Boom_Boom_(From_Dude_-_Telugu).jpg"
+  name: "Hiphop_Tamizha_-_Excuse_Me_Kathali_(single).mp3",
+  title: "Hiphop Tamizha - Excuse Me Kathali (single)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Excuse_Me_Kathali_(single).jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Oorum_Blood.mp3",
-  title: "Sai Abhyankkar - Oorum Blood",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Oorum_Blood.jpg"
+  name: "Hiphop_Tamizha_-_Ezhuvoam_Vaa_(single).mp3",
+  title: "Hiphop Tamizha - Ezhuvoam Vaa (single)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Ezhuvoam_Vaa_(single).jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Salambala_(From_Madharaasi).mp3",
-  title: "Sai Abhyankkar - Salambala (From Madharaasi)",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Salambala_(From_Madharaasi).jpg"
+  name: "Hiphop_Tamizha_-_Nice_Vs_Naughty_(Na_Na_Na).mp3",
+  title: "Hiphop Tamizha - Nice Vs Naughty (Na Na Na)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Nice_Vs_Naughty_(Na_Na_Na).jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Jaalakaari_(From_Balti).mp3",
-  title: "Sai Abhyankkar - Jaalakaari (From Balti)",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Jaalakaari_(From_Balti).jpg"
+  name: "Hiphop_Tamizha_-_Club_le_Mabbu_le_(single_/_video).mp3",
+  title: "Hiphop Tamizha - Club le Mabbu le (single / video)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Club_le_Mabbu_le_(single_/_video).jpg"
 },
 {
-  name: "Sai_Abhyankkar_-_Boom_Boom_(From_Dude_-_Telugu,_Film_Version).mp3",
-  title: "Sai Abhyankkar - Boom Boom (From Dude - Telugu, Film Version)",
-  artist: "Artist: Unknown",
-  cover: "covers/Sai_Abhyankkar_-_Boom_Boom_(From_Dude_-_Telugu,_Film_Version).jpg"
+  name: "Hiphop_Tamizha_-_Vaadi_Pulla_Vaadi_(single).mp3",
+  title: "Hiphop Tamizha - Vaadi Pulla Vaadi (single)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Vaadi_Pulla_Vaadi_(single).jpg"
+},
+{
+  name: "Hiphop_Tamizha_-_Poda_(single).mp3",
+  title: "Hiphop Tamizha - Poda (single)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Poda_(single).jpg"
+},
+{
+  name: "Hiphop_Tamizha_-_Takkaru_Takkaru_(single).mp3",
+  title: "Hiphop Tamizha - Takkaru Takkaru (single)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Takkaru_Takkaru_(single).jpg"
+},
+{
+  name: "Hiphop_Tamizha_-_Kovai_Gethu_(single).mp3",
+  title: "Hiphop Tamizha - Kovai Gethu (single)",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Kovai_Gethu_(single).jpg"
+},
+{
+  name: "Hiphop_Tamizha_-_Maanavan.mp3",
+  title: "Hiphop Tamizha - Maanavan",
+  artist: "Artist: Hiphop Tamizha",
+  cover: "covers/Hiphop_Tamizha_-_Maanavan.jpg"
 }
 ];
 
