@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Karan_Aujla_-_For_a_reason.mp3",
-  title: "Karan Aujla - For a reason",
+  name: "Nazar__na_lagg_jae_|_STREE.mp3",
+  title: "Nazar  na lagg jae | STREE",
   artist: "Artist: Unknown",
-  cover: "covers/Karan_Aujla_-_For_a_reason.jpg"
+  cover: "covers/Nazar__na_lagg_jae_|_STREE.jpg"
 }
 ];
