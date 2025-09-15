@@ -16,6 +16,12 @@ const songs = [
   cover: "covers/Nazar__na_lagg_jae_|_STREE.jpg"
 },
 {
+  name: "Bismil_|_Haider.mp3",
+  title: "Bismil | Haider",
+  artist: "Artist: Unknown",
+  cover: "covers/Bismil_|_Haider.jpg"
+},
+{
   name: "songs/Malang_Song_|_Dhoom_3.mp3",
   title: "Malang Song | Dhoom 3",
   artist: "Artist: Unknown",
