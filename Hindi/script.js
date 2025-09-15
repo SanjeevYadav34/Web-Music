@@ -10,6 +10,12 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
+  name: "songs/Nazar__na_lagg_jae_|_STREE.mp3",
+  title: "Nazar  na lagg jae | STREE",
+  artist: "Artist: Unknown",
+  cover: "covers/Nazar__na_lagg_jae_|_STREE.jpg"
+},
+{
   name: "songs/Malang_Song_|_Dhoom_3.mp3",
   title: "Malang Song | Dhoom 3",
   artist: "Artist: Unknown",
