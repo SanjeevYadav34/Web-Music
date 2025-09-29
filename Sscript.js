@@ -11,6 +11,12 @@ const songListDiv = document.getElementById("songList");
 
 
 const songs = [
+{
+  name: "TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.mp3",
+  title: "TAK TAK DEKHO NAACHRO SANWARIYA | SAWARIYA | EKO DASO SUNDARI SUNDARI",
+  artist: "Artist: Unknown",
+  cover: "covers/TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.jpg"
+},
   {
     name: "DHAGALA LAGLI KALA.mp3",
     title: "DHAGALA LAGLI KALA😂",
