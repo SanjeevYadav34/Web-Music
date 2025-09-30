@@ -10,6 +10,12 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
+  name: "../../songs/TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.mp3",
+  title: "TAK TAK DEKHO NAACHRO SANWARIYA | SAWARIYA | EKO DASO SUNDARI SUNDARI",
+  artist: "Artist: Unknown",
+  cover: "../covers/TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.jpg"
+},
+{
   name: "Darkhaast_-_Mithoon,_Arijit_Singh,_Sunidhi_Chauhan.mp3",
   title: "Darkhaast - Mithoon, Arijit Singh, Sunidhi Chauhan",
   artist: "Artist: Unknown",
