@@ -168,6 +168,12 @@ const songs = [
   cover: "covers/Lucke_-_Duvidha.jpg"
 },
 {
+  name: "bali.mp3",
+  title: "Raanjha - Bali",
+  artist: "Artist: Unknown",
+  cover: "covers/bali.webp"
+},
+{
   name: "Narci_-_Angad_Lalkaar.mp3",
   title: "Narci - Angad Lalkaar",
   artist: "Artist: Unknown",
