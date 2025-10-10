@@ -17,6 +17,18 @@ const songs = [
   artist: "Artist: Unknown",
   cover: "covers/TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.jpg"
 },
+{
+  name: "Sad_Gaana_(Animated_Video).mp3",
+  title: "Sad Gaana (Animated Video)",
+  artist: "Artist: Unknown",
+  cover: "covers/Sad_Gaana_(Animated_Video).jpg"
+},
+{
+  name: "Chatak.mp3",
+  title: "Chatak",
+  artist: "Artist: Unknown",
+  cover: "covers/Chatak.jpg"
+}
   {
     name: "DHAGALA LAGLI KALA.mp3",
     title: "DHAGALA LAGLI KALA😂",
@@ -193,7 +205,7 @@ const songs = [
 }
 ];
 
-let songIndex = 8;
+let songIndex = 1;
 let isLooping = false;
 
 function highlightActiveSong() {
