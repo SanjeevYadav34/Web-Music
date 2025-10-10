@@ -28,7 +28,7 @@ const songs = [
   title: "Chatak",
   artist: "Artist: Unknown",
   cover: "covers/Chatak.jpg"
-}
+},
   {
     name: "DHAGALA LAGLI KALA.mp3",
     title: "DHAGALA LAGLI KALA😂",
