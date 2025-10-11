@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.jpg"
 },
 {
+  name: "MAFIA_-_BHARTIYA_RADIO.mp3",
+  title: "MAFIA - BHARTIYA RADIO",
+  artist: "Artist: Unknown",
+  cover: "covers/MAFIA_-_BHARTIYA_RADIO.jpg"
+},
+{
   name: "Sad_Gaana_(Animated_Video).mp3",
   title: "Sad Gaana (Animated Video)",
   artist: "Artist: Unknown",
