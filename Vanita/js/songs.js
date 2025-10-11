@@ -1,14 +1,8 @@
 const songs = [
 {
-  name: "Sad_Gaana_(Animated_Video).mp3",
-  title: "Sad Gaana (Animated Video)",
+  name: "MAFIA_-_BHARTIYA_RADIO.mp3",
+  title: "MAFIA - BHARTIYA RADIO",
   artist: "Artist: Unknown",
-  cover: "covers/Sad_Gaana_(Animated_Video).jpg"
-},
-{
-  name: "Chatak.mp3",
-  title: "Chatak",
-  artist: "Artist: Unknown",
-  cover: "covers/Chatak.jpg"
+  cover: "covers/MAFIA_-_BHARTIYA_RADIO.jpg"
 }
 ];
