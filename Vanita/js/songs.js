@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "MAFIA_-_BHARTIYA_RADIO.mp3",
-  title: "MAFIA - BHARTIYA RADIO",
+  name: "Teeje_Week_(Full_Song).mp3",
+  title: "Teeje Week (Full Song)",
   artist: "Artist: Unknown",
-  cover: "covers/MAFIA_-_BHARTIYA_RADIO.jpg"
+  cover: "covers/Teeje_Week_(Full_Song).jpg"
 }
 ];
