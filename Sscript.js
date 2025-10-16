@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.jpg"
 },
 {
+  name: "Teeje_Week_(Full_Song).mp3",
+  title: "Teeje Week (Full Song)",
+  artist: "Artist: Unknown",
+  cover: "covers/Teeje_Week_(Full_Song).jpg"
+},
+{
   name: "MAFIA_-_BHARTIYA_RADIO.mp3",
   title: "MAFIA - BHARTIYA RADIO",
   artist: "Artist: Unknown",
