@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Teeje_Week_(Full_Song).mp3",
-  title: "Teeje Week (Full Song)",
+  name: "CHAKAR_SHIVBACH_HONAR.mp3",
+  title: "CHAKAR SHIVBACH HONAR",
   artist: "Artist: Unknown",
-  cover: "covers/Teeje_Week_(Full_Song).jpg"
+  cover: "covers/CHAKAR_SHIVBACH_HONAR.jpg"
 }
 ];
