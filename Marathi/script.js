@@ -10,10 +10,10 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
-  name: "songs/Karan_Aujla_-_For_a_reason.mp3",
-  title: "Karan Aujla - For a reason",
+  name: "songs/CHAKAR_SHIVBACH_HONAR.mp3",
+  title: "CHAKAR SHIVBACH HONAR",
   artist: "Artist: Unknown",
-  cover: "covers/Karan_Aujla_-_For_a_reason.jpg"
+  cover: "covers/CHAKAR_SHIVBACH_HONAR.jpg"
 }
 ];
 
