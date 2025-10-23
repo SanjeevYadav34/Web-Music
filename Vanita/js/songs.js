@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "CHAKAR_SHIVBACH_HONAR.mp3",
-  title: "CHAKAR SHIVBACH HONAR",
+  name: "Hawa_Hawa_Full_Song.mp3",
+  title: "Hawa Hawa Full Song",
   artist: "Artist: Unknown",
-  cover: "covers/CHAKAR_SHIVBACH_HONAR.jpg"
+  cover: "covers/Hawa_Hawa_Full_Song.jpg"
 }
 ];
