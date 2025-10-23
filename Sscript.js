@@ -180,6 +180,12 @@ const songs = [
   cover: "covers/Raanjha_-_Lakshman_Parshuram.jpg"
 },
 {
+  name: "Mahaveer_Hanumaan_-_Ranjha.mp3",
+  title: "Mahaveer Hanumaan - Ranjha",
+  artist: "Artist: Unknown",
+  cover: "covers/Mahaveer_Hanumaan_-_Ranjha.jpg"
+},
+{
   name: "Raanjha_-_Mahavatar_Narsingh.mp3",
   title: "Raanjha - Mahavatar Narsingh",
   artist: "Artist: Unknown",
