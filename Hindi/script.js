@@ -28,6 +28,12 @@ const songs = [
   cover: "covers/Malang_Song_|_Dhoom_3.jpg"
 },
 {
+  name: "songs/Hawa_Hawa_Full_Song.mp3",
+  title: "Hawa Hawa Full Song",
+  artist: "Artist: Unknown",
+  cover: "covers/Hawa_Hawa_Full_Song.jpg"
+},
+{
     name: "songs/mera_mann.mp3",
     title: "Mera Mann",
     artist: "",
