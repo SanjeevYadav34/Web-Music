@@ -12,6 +12,12 @@ const songListDiv = document.getElementById("songList");
 
 const songs = [
 {
+  name: "Monica_-_COOLIE.mp3",
+  title: "Monica - COOLIE",
+  artist: "Artist: Unknown",
+  cover: "covers/Monica_-_COOLIE.jpg"
+},
+{
   name: "TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.mp3",
   title: "TAK TAK DEKHO NAACHRO SANWARIYA | SAWARIYA | EKO DASO SUNDARI SUNDARI",
   artist: "Artist: Unknown",
