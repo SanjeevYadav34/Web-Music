@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Mahaveer_Hanumaan_-_Ranjha.mp3",
-  title: "Mahaveer Hanumaan - Ranjha",
+  name: "Monica_-_COOLIE.mp3",
+  title: "Monica - COOLIE",
   artist: "Artist: Unknown",
-  cover: "covers/Mahaveer_Hanumaan_-_Ranjha.jpg"
+  cover: "covers/Monica_-_COOLIE.jpg"
 }
 ];
