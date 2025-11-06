@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "YEAR-END_MEGAMIX_2024_|_4K_NIKHIL_MUSIQ_|.mp3",
-  title: "YEAR-END MEGAMIX 2024 | 4K NIKHIL MUSIQ |",
+  name: "Raftaar,_Rashmeet_Kaur_-_Ghana_Kasoota_(Lyrics).mp3",
+  title: "Raftaar, Rashmeet Kaur - Ghana Kasoota (Lyrics)",
   artist: "Artist: Unknown",
-  cover: "covers/YEAR-END_MEGAMIX_2024_|_4K_NIKHIL_MUSIQ_|.jpg"
+  cover: "covers/Raftaar,_Rashmeet_Kaur_-_Ghana_Kasoota_(Lyrics).jpg"
 }
 ];
