@@ -24,6 +24,12 @@ const songs = [
   cover: "covers/YEAR-END_MEGAMIX_2024_|_4K_NIKHIL_MUSIQ_|.jpg"
 },
 {
+  name: "Raftaar,_Rashmeet_Kaur_-_Ghana_Kasoota_(Lyrics).mp3",
+  title: "Raftaar, Rashmeet Kaur - Ghana Kasoota (Lyrics)",
+  artist: "Artist: Unknown",
+  cover: "covers/Raftaar,_Rashmeet_Kaur_-_Ghana_Kasoota_(Lyrics).jpg"
+},
+{
   name: "TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.mp3",
   title: "TAK TAK DEKHO NAACHRO SANWARIYA | SAWARIYA | EKO DASO SUNDARI SUNDARI",
   artist: "Artist: Unknown",
