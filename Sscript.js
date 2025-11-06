@@ -24,6 +24,12 @@ const songs = [
   cover: "covers/YEAR-END_MEGAMIX_2024_|_4K_NIKHIL_MUSIQ_|.jpg"
 },
 {
+  name: "Odimaga_Lyrics_|_Aavesham_|Fahad_fazil_|_Sushin_shyam.mp3",
+  title: "Odimaga Lyrics | Aavesham |Fahad fazil | Sushin shyam",
+  artist: "Artist: Unknown",
+  cover: "covers/Odimaga_Lyrics_|_Aavesham_|Fahad_fazil_|_Sushin_shyam.jpg"
+},
+{
   name: "Raftaar,_Rashmeet_Kaur_-_Ghana_Kasoota_(Lyrics).mp3",
   title: "Raftaar, Rashmeet Kaur - Ghana Kasoota (Lyrics)",
   artist: "Artist: Unknown",
