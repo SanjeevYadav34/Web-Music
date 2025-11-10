@@ -36,6 +36,12 @@ const songs = [
   cover: "covers/Raftaar,_Rashmeet_Kaur_-_Ghana_Kasoota_(Lyrics).jpg"
 },
 {
+  name: "PYASA_PUNJABI.mp3",
+  title: "PYASA PUNJABI",
+  artist: "Artist: Unknown",
+  cover: "covers/PYASA_PUNJABI.jpg"
+},
+{
   name: "TAK_TAK_DEKHO_NAACHRO_SANWARIYA_|_SAWARIYA_|_EKO_DASO_SUNDARI_SUNDARI.mp3",
   title: "TAK TAK DEKHO NAACHRO SANWARIYA | SAWARIYA | EKO DASO SUNDARI SUNDARI",
   artist: "Artist: Unknown",
