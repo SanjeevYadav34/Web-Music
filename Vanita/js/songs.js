@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Odimaga_Lyrics_|_Aavesham_|Fahad_fazil_|_Sushin_shyam.mp3",
-  title: "Odimaga Lyrics | Aavesham |Fahad fazil | Sushin shyam",
+  name: "PYASA_PUNJABI.mp3",
+  title: "PYASA PUNJABI",
   artist: "Artist: Unknown",
-  cover: "covers/Odimaga_Lyrics_|_Aavesham_|Fahad_fazil_|_Sushin_shyam.jpg"
+  cover: "covers/PYASA_PUNJABI.jpg"
 }
 ];
