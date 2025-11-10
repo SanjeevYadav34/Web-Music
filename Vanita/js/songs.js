@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "PYASA_PUNJABI.mp3",
-  title: "PYASA PUNJABI",
+  name: "Shopping_List_|_Yo_Yo_Honey_Singh.mp3",
+  title: "Shopping List | Yo Yo Honey Singh",
   artist: "Artist: Unknown",
-  cover: "covers/PYASA_PUNJABI.jpg"
+  cover: "covers/Shopping_List_|_Yo_Yo_Honey_Singh.jpg"
 }
 ];
