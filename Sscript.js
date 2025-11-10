@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Monica_-_COOLIE.jpg"
 },
 {
+  name: "Shopping_List_|_Yo_Yo_Honey_Singh.mp3",
+  title: "Shopping List | Yo Yo Honey Singh",
+  artist: "Artist: Unknown",
+  cover: "covers/Shopping_List_|_Yo_Yo_Honey_Singh.jpg"
+},
+{
   name: "YEAR-END_MEGAMIX_2024_|_4K_NIKHIL_MUSIQ_|.mp3",
   title: "YEAR-END MEGAMIX 2024 | 4K NIKHIL MUSIQ |",
   artist: "Artist: Unknown",
