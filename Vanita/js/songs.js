@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Shopping_List_|_Yo_Yo_Honey_Singh.mp3",
-  title: "Shopping List | Yo Yo Honey Singh",
+  name: "Boyfriend_|_Karan_Aujla.mp3",
+  title: "Boyfriend | Karan Aujla",
   artist: "Artist: Unknown",
-  cover: "covers/Shopping_List_|_Yo_Yo_Honey_Singh.jpg"
+  cover: "covers/Boyfriend_|_Karan_Aujla.jpg"
 }
 ];
