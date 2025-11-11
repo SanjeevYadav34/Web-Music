@@ -10,6 +10,12 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
+  name: "songs/Boyfriend_|_Karan_Aujla.mp3",
+  title: "Boyfriend | Karan Aujla",
+  artist: "Artist: Unknown",
+  cover: "covers/Boyfriend_|_Karan_Aujla.jpg"
+},
+{
   name: "songs/Karan_Aujla_-_For_a_reason.mp3",
   title: "Karan Aujla - For a reason",
   artist: "Artist: Unknown",
