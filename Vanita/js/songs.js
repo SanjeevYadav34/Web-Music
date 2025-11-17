@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.mp3",
-  title: "Gal Sun Lyrics - Sabat Batin ft. Rackstar | @VibePillMusic",
+  name: "Dhurandhar_-_Title_Track_(Punjabi_Lyrics_+Translation)_|_Ranveer_Singh_Ft.Hanumankind.mp3",
+  title: "Dhurandhar - Title Track (Punjabi Lyrics +Translation) | Ranveer Singh Ft.Hanumankind",
   artist: "Artist: Unknown",
-  cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
+  cover: "covers/Dhurandhar_-_Title_Track_(Punjabi_Lyrics_+Translation)_|_Ranveer_Singh_Ft.Hanumankind.jpg"
 }
 ];
