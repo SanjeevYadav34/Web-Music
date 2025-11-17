@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Boyfriend_|_Karan_Aujla.mp3",
-  title: "Boyfriend | Karan Aujla",
+  name: "Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.mp3",
+  title: "Gal Sun Lyrics - Sabat Batin ft. Rackstar | @VibePillMusic",
   artist: "Artist: Unknown",
-  cover: "covers/Boyfriend_|_Karan_Aujla.jpg"
+  cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 }
 ];
