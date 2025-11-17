@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Dhurandhar_-_Title_Track_(Punjabi_Lyrics_+Translation)_|_Ranveer_Singh_Ft.Hanumankind.mp3",
+  title: "Dhurandhar - Title Track (Punjabi Lyrics +Translation) | Ranveer Singh Ft.Hanumankind",
+  artist: "Artist: Unknown",
+  cover: "covers/Dhurandhar_-_Title_Track_(Punjabi_Lyrics_+Translation)_|_Ranveer_Singh_Ft.Hanumankind.jpg"
+},
+{
   name: "Monica_-_COOLIE.mp3",
   title: "Monica - COOLIE",
   artist: "Artist: Unknown",
