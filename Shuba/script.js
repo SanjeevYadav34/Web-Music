@@ -10,6 +10,12 @@ const loopBtn = document.getElementById("loop");
 
 const songs = [
 {
+  name: "LEO_-_Naa_Ready_Song.mp3",
+  title: "LEO - Naa Ready Song",
+  artist: "Artist: Unknown",
+  cover: "covers/LEO_-_Naa_Ready_Song.jpg"
+},
+{
   name: "Anirudh_Ravichander_-_Why_This_Kolaveri_Di.mp3",
   title: "Anirudh Ravichander - Why This Kolaveri Di",
   artist: "Artist: Unknown",
