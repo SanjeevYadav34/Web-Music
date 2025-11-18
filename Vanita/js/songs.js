@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Dhurandhar_-_Title_Track_(Punjabi_Lyrics_+Translation)_|_Ranveer_Singh_Ft.Hanumankind.mp3",
-  title: "Dhurandhar - Title Track (Punjabi Lyrics +Translation) | Ranveer Singh Ft.Hanumankind",
+  name: "LEO_-_Naa_Ready_Song.mp3",
+  title: "LEO - Naa Ready Song",
   artist: "Artist: Unknown",
-  cover: "covers/Dhurandhar_-_Title_Track_(Punjabi_Lyrics_+Translation)_|_Ranveer_Singh_Ft.Hanumankind.jpg"
+  cover: "covers/LEO_-_Naa_Ready_Song.jpg"
 }
 ];
