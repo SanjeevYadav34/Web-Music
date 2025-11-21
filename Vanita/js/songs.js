@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "LEO_-_Naa_Ready_Song.mp3",
-  title: "LEO - Naa Ready Song",
+  name: "Apun_Jaisa_Topori_Full_Song.mp3",
+  title: "Apun Jaisa Topori Full Song",
   artist: "Artist: Unknown",
-  cover: "covers/LEO_-_Naa_Ready_Song.jpg"
+  cover: "covers/Apun_Jaisa_Topori_Full_Song.jpg"
 }
 ];
