@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Apun_Jaisa_Topori_Full_Song.mp3",
+  title: "Apun Jaisa Topori Full Song",
+  artist: "Artist: Unknown",
+  cover: "covers/Apun_Jaisa_Topori_Full_Song.jpg"
+},
+{
   name: "Dhurandhar_-_Title_Track_(Punjabi_Lyrics_+Translation)_|_Ranveer_Singh_Ft.Hanumankind.mp3",
   title: "Dhurandhar - Title Track (Punjabi Lyrics +Translation) | Ranveer Singh Ft.Hanumankind",
   artist: "Artist: Unknown",
