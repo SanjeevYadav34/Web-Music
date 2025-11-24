@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Block_-_Dhanda_Nyoliwala_(Music_Video).mp3",
+  title: "Block - Dhanda Nyoliwala (Music Video)",
+  artist: "Artist: Unknown",
+  cover: "covers/Block_-_Dhanda_Nyoliwala_(Music_Video).jpg"
+},
+{
   name: "Apun_Jaisa_Topori_Full_Song.mp3",
   title: "Apun Jaisa Topori Full Song",
   artist: "Artist: Unknown",
