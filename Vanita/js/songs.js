@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Apun_Jaisa_Topori_Full_Song.mp3",
-  title: "Apun Jaisa Topori Full Song",
+  name: "Block_-_Dhanda_Nyoliwala_(Music_Video).mp3",
+  title: "Block - Dhanda Nyoliwala (Music Video)",
   artist: "Artist: Unknown",
-  cover: "covers/Apun_Jaisa_Topori_Full_Song.jpg"
+  cover: "covers/Block_-_Dhanda_Nyoliwala_(Music_Video).jpg"
 }
 ];
