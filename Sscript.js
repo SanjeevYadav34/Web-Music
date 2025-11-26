@@ -24,6 +24,12 @@ const songs = [
   cover: "covers/Block_-_Dhanda_Nyoliwala_(Music_Video).jpg"
 },
 {
+  name: "Bargad_Arpit_Bala.mp3",
+  title: "Bargad Arpit Bala",
+  artist: "Artist: Unknown",
+  cover: "covers/Bargad_Arpit_Bala.jpg"
+},
+{
   name: "Apun_Jaisa_Topori_Full_Song.mp3",
   title: "Apun Jaisa Topori Full Song",
   artist: "Artist: Unknown",
