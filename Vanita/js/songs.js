@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Block_-_Dhanda_Nyoliwala_(Music_Video).mp3",
-  title: "Block - Dhanda Nyoliwala (Music Video)",
+  name: "Bargad_Arpit_Bala.mp3",
+  title: "Bargad Arpit Bala",
   artist: "Artist: Unknown",
-  cover: "covers/Block_-_Dhanda_Nyoliwala_(Music_Video).jpg"
+  cover: "covers/Bargad_Arpit_Bala.jpg"
 }
 ];
