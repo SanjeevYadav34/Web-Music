@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Ishq_Jalakar_-_Karvaan.mp3",
+  title: "Ishq Jalakar - Karvaan",
+  artist: "Artist: Unknown",
+  cover: "covers/Ishq_Jalakar_-_Karvaan.jpg"
+},
+{
   name: "Block_-_Dhanda_Nyoliwala_(Music_Video).mp3",
   title: "Block - Dhanda Nyoliwala (Music Video)",
   artist: "Artist: Unknown",
