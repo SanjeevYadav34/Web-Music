@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Confess_Your_Love_Funk.mp3",
-  title: "Confess Your Love Funk",
+  name: "Ishq_Jalakar_-_Karvaan.mp3",
+  title: "Ishq Jalakar - Karvaan",
   artist: "Artist: Unknown",
-  cover: "covers/Confess_Your_Love_Funk.jpg"
+  cover: "covers/Ishq_Jalakar_-_Karvaan.jpg"
 }
 ];
