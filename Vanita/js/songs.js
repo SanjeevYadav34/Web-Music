@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Ishq_Jalakar_-_Karvaan.mp3",
-  title: "Ishq Jalakar - Karvaan",
+  name: "Ghana_Kasoota.mp3",
+  title: "Ghana Kasoota",
   artist: "Artist: Unknown",
-  cover: "covers/Ishq_Jalakar_-_Karvaan.jpg"
+  cover: "covers/Ghana_Kasoota.jpg"
 }
 ];
