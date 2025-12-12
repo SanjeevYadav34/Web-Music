@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Ghana_Kasoota.mp3",
-  title: "Ghana Kasoota",
+  name: "Oh_Mama!_Tetema.mp3",
+  title: "Oh Mama! Tetema",
   artist: "Artist: Unknown",
-  cover: "covers/Ghana_Kasoota.jpg"
+  cover: "covers/Oh_Mama!_Tetema.jpg"
 }
 ];
