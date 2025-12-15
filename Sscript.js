@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Fakira_-_Lyrical.mp3",
+  title: "Fakira - Lyrical",
+  artist: "Artist: Unknown",
+  cover: "covers/Fakira_-_Lyrical.jpg"
+},
+{
   name: "Oh_Mama!_Tetema.mp3",
   title: "Oh Mama! Tetema",
   artist: "Artist: Unknown",
