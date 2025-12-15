@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Oh_Mama!_Tetema.mp3",
-  title: "Oh Mama! Tetema",
+  name: "Fakira_-_Lyrical.mp3",
+  title: "Fakira - Lyrical",
   artist: "Artist: Unknown",
-  cover: "covers/Oh_Mama!_Tetema.jpg"
+  cover: "covers/Fakira_-_Lyrical.jpg"
 }
 ];
