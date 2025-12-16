@@ -23,11 +23,11 @@ const users = {
     password: "shuba098",
     redirect: "Shuba/home.html"
   },
-  Komal: {
+  Komal.G: {
     password: "komal456",
     redirect: "Komal/index.html"
   },
-  Komal.N: {
+  Komal: {
     password: "komal2910",
     redirect: "KomalN/index.html"
   }
