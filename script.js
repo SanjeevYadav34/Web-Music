@@ -27,6 +27,10 @@ const users = {
     password: "komal456",
     redirect: "Komal/index.html"
   }
+  KomalN: {
+    password: "komal2910",
+    redirect: "KomalN/index.html"
+  }
 };
 
 function checkPassword(name) {
