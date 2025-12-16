@@ -26,7 +26,7 @@ const users = {
   Komal: {
     password: "komal456",
     redirect: "Komal/index.html"
-  }
+  },
   KomalN: {
     password: "komal2910",
     redirect: "KomalN/index.html"
