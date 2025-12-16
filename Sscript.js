@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "best_mashup.mp3",
+  title: "Best Mashup",
+  artist: "Artist: Unknown",
+  cover: "covers/best_mashup.webp"
+},
+{
   name: "Fakira_-_Lyrical.mp3",
   title: "Fakira - Lyrical",
   artist: "Artist: Unknown",
