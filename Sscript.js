@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "I_Will_Survive_-_Gloria_Gaynor.mp3",
+  title: "I Will Survive - Gloria Gaynor",
+  artist: "Artist: Unknown",
+  cover: "covers/I_Will_Survive_-_Gloria_Gaynor.jpg"
+},
+{
   name: "best_mashup.mp3",
   title: "Best Mashup",
   artist: "Artist: Unknown",
