@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "I_Will_Survive_-_Gloria_Gaynor.mp3",
-  title: "I Will Survive - Gloria Gaynor",
+  name: "Hawa_Hawa_Song_|_Dhurandhar.mp3",
+  title: "Hawa Hawa Song | Dhurandhar",
   artist: "Artist: Unknown",
-  cover: "covers/I_Will_Survive_-_Gloria_Gaynor.jpg"
+  cover: "covers/Hawa_Hawa_Song_|_Dhurandhar.jpg"
 }
 ];
