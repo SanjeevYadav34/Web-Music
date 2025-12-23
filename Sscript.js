@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Hawa_Hawa_Song_|_Dhurandhar.mp3",
+  title: "Hawa Hawa Song | Dhurandhar",
+  artist: "Artist: Unknown",
+  cover: "covers/Hawa_Hawa_Song_|_Dhurandhar.jpg"
+},
+{
   name: "I_Will_Survive_-_Gloria_Gaynor.mp3",
   title: "I Will Survive - Gloria Gaynor",
   artist: "Artist: Unknown",
