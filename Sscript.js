@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Don't_Be_shy_Again_-_Bala.mp3",
+  title: "Don't Be shy Again - Bala",
+  artist: "Artist: Unknown",
+  cover: "covers/Don't_Be_shy_Again_-_Bala.jpg"
+},
+{
   name: "Hawa_Hawa_Song_|_Dhurandhar.mp3",
   title: "Hawa Hawa Song | Dhurandhar",
   artist: "Artist: Unknown",
