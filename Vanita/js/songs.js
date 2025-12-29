@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Hawa_Hawa_Song_|_Dhurandhar.mp3",
-  title: "Hawa Hawa Song | Dhurandhar",
+  name: "Don't_Be_shy_Again_-_Bala.mp3",
+  title: "Don't Be shy Again - Bala",
   artist: "Artist: Unknown",
-  cover: "covers/Hawa_Hawa_Song_|_Dhurandhar.jpg"
+  cover: "covers/Don't_Be_shy_Again_-_Bala.jpg"
 }
 ];
