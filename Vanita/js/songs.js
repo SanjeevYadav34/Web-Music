@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Don't_Be_shy_Again_-_Bala.mp3",
-  title: "Don't Be shy Again - Bala",
+  name: "Afgan_Jalebi_Song.mp3",
+  title: "Afgan Jalebi Song",
   artist: "Artist: Unknown",
-  cover: "covers/Don't_Be_shy_Again_-_Bala.jpg"
+  cover: "covers/Afgan_Jalebi_Song.jpg"
 }
 ];
