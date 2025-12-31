@@ -24,6 +24,12 @@ const songs = [
   cover: "covers/Don't_Be_shy_Again_-_Bala.jpg"
 },
 {
+  name: "Afgan_Jalebi_Song.mp3",
+  title: "Afgan Jalebi Song",
+  artist: "Artist: Unknown",
+  cover: "covers/Afgan_Jalebi_Song.jpg"
+},
+{
   name: "Hawa_Hawa_Song_|_Dhurandhar.mp3",
   title: "Hawa Hawa Song | Dhurandhar",
   artist: "Artist: Unknown",
