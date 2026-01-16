@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Chandi_O_Meri_Chandi.mp3",
+  title: "Chandi O Meri Chandi",
+  artist: "Artist: Unknown",
+  cover: "covers/Chandi_O_Meri_Chandi.jpg"
+},
+{
   name: "Don't_Be_shy_Again_-_Bala.mp3",
   title: "Don't Be shy Again - Bala",
   artist: "Artist: Unknown",
