@@ -1,8 +1,8 @@
 const songs = [
 {
-  name: "Chandi_O_Meri_Chandi.mp3",
-  title: "Chandi O Meri Chandi",
+  name: "I_REALLY_DO(MUSIC_VIDEO).mp3",
+  title: "I REALLY DO(MUSIC VIDEO)",
   artist: "Artist: Unknown",
-  cover: "covers/Chandi_O_Meri_Chandi.jpg"
+  cover: "covers/I_REALLY_DO(MUSIC_VIDEO).jpg"
 }
 ];
