@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "I_REALLY_DO(MUSIC_VIDEO).mp3",
+  title: "I REALLY DO(MUSIC VIDEO)",
+  artist: "Artist: Unknown",
+  cover: "covers/I_REALLY_DO(MUSIC_VIDEO).jpg"
+},
+{
   name: "Chandi_O_Meri_Chandi.mp3",
   title: "Chandi O Meri Chandi",
   artist: "Artist: Unknown",
