@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "om_namo_108.mp3",
+  title: "Om Namo 108",
+  artist: "Artist: Unknown",
+  cover: "covers/om_namo_108.webp"
+},
+{
   name: "I_REALLY_DO(MUSIC_VIDEO).mp3",
   title: "I REALLY DO(MUSIC VIDEO)",
   artist: "Artist: Unknown",
