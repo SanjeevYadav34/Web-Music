@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "om_namo.mp3",
+  title: "Om Namo Bhagavate Vasudevaya Lyrical Video - Hindi | Hombale Films | Kleem Productions | Sam CS",
+  artist: "Artist: Unknown",
+  cover: "covers/om_namo.webp"
+},
+{
   name: "om_namo_108.mp3",
   title: "Om Namo 108",
   artist: "Artist: Unknown",
