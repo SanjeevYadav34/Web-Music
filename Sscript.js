@@ -18,6 +18,12 @@ const songs = [
   cover: "covers/Gal_Sun_Lyrics_-_Sabat_Batin_ft._Rackstar_|_@VibePillMusic.jpg"
 },
 {
+  name: "Radha_Gori_Gori.mp3",
+  title: "Radha Gori Gori",
+  artist: "Artist: Unknown",
+  cover: "covers/Radha_Gori_Gori.jpg"
+},
+{
   name: "om_namo.mp3",
   title: "Om Namo Bhagavate Vasudevaya Lyrical Video - Hindi | Hombale Films | Kleem Productions | Sam CS",
   artist: "Artist: Unknown",
